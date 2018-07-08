@@ -1,5 +1,6 @@
 //Description
-//        Get the list of list of keys in a given binary tree layer by layer. Each layer is represented by a list of keys and the keys are traversed from left to right.
+//        Get the list of list of keys in a given binary tree layer by layer.
+//        Each layer is represented by a list of keys and the keys are traversed from left to right.
 //
 //        Examples
 //
@@ -38,22 +39,48 @@
 package com.myPractice.class05.HeapAndGraphSearch;
 
 
-import java.util.ArrayList;
-import java.util.List;
+import org.junit.Assert;
+import org.junit.Test;
+
+import java.util.*;
 
 class TreeNode {
     public int key;
     public TreeNode left;
     public TreeNode right;
-    public    TreeNode(int key) {
-      this.key = key;
-    }
-  }
 
+    public TreeNode(int key) {
+        this.key = key;
+    }
+}
 
 public class GetKeysInBinaryTreeLayerByLayer {
     public List<List<Integer>> layerByLayer(TreeNode root) {
         // Write your solution here.
-        return new ArrayList<List<Integer>>();
+        List<List<Integer>> list = new ArrayList<List<Integer>>();
+        if (root == null){
+            return list;
+        }
+
+        Queue<TreeNode> queue = new LinkedList<>();
+        queue.offer(root);
+
+        while (!queue.isEmpty()){
+            List<Integer> currLayer = new ArrayList<>();
+
+            int size = queue.size();
+            for(int i=0; i<size; i++){
+                TreeNode currNode = queue.poll();
+                currLayer.add(currNode.key);
+                if (currNode.left != null){
+                    queue.offer(currNode.left);
+                }
+                if (currNode.right != null){
+                    queue.offer(currNode.right);
+                }
+            }
+            list.add(currLayer);
+        }
+        return list;
     }
 }
