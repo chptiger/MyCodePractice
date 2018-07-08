@@ -9,6 +9,8 @@
 
 package com.myCodePractice.Class06.GraphSearchDFS;
 
+import java.util.List;
+
 public class AllPermutations_I {
     public List<String> permutations(String set) {
         // Write your solution here.
