@@ -16,9 +16,59 @@
 
 package com.myCodePractice.Class07.HashTableAndStringI;
 
+import org.junit.Assert;
+import org.junit.Test;
+
+import java.util.Comparator;
+import java.util.HashMap;
+import java.util.Map;
+import java.util.PriorityQueue;
+
 public class TopKFrequentWords {
     public String[] topKFrequent(String[] combo, int k) {
         // Write your solution here
-        return null;
+        // Corner case
+        if (combo == null || combo.length == 0){
+            return new String[0];
+        }
+        // Iterate every char in combo, put it in HashMap<String, int>
+        HashMap<String, Integer> freqMap = new HashMap<>();
+        for(String word : combo){
+            Integer count = freqMap.get(word);
+            if (count == null){
+                freqMap.put(word, 1);
+            }else{
+                freqMap.put(word, count+1);
+            }
+        }
+        // Find k-th freq word by minHeap
+        PriorityQueue<Map.Entry<String, Integer>> minHeap = new PriorityQueue<>(k, new Comparator<Map.Entry<String, Integer>>() {
+            @Override
+            public int compare(Map.Entry<String, Integer> o1, Map.Entry<String, Integer> o2) {
+                return o1.getValue().compareTo(o2.getValue());
+            }
+        });
+        for (Map.Entry<String, Integer> kvPair: freqMap.entrySet()){
+            if (minHeap.size()<k){
+                minHeap.offer(kvPair);
+            }else if (kvPair.getValue()>minHeap.peek().getValue()){
+                    minHeap.poll();
+                    minHeap.offer(kvPair);
+            }
+        }
+
+        // print out String[] from minHeap
+        String[] result = new String[k];
+        for (int i = k-1; i>=0;i--){
+            result[i] = minHeap.poll().getKey();
+        }
+
+        return result;
+    }
+
+    @Test
+    public void testKthFreqWord(){
+        String[] combo = {"A","B","A","C","D","B","A"};
+        Assert.assertEquals(new String[]{"A","C"}, topKFrequent(combo,2));
     }
 }
