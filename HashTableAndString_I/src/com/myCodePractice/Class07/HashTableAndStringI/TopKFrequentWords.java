@@ -69,6 +69,6 @@ public class TopKFrequentWords {
     @Test
     public void testKthFreqWord(){
         String[] combo = {"A","B","A","C","D","B","A"};
-        Assert.assertEquals(new String[]{"A","C"}, topKFrequent(combo,2));
+        Assert.assertArrayEquals(new String[]{"A","B"}, topKFrequent(combo, 2));
     }
 }
