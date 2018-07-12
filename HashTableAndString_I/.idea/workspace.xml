@@ -4,7 +4,6 @@
     <list default="true" id="efb8d826-7088-4c26-9961-3a1011c3fc86" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/myCodePractice/Class07/HashTableAndStringI/CommonNumbersOf2SortedArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/myCodePractice/Class07/HashTableAndStringI/CommonNumbersOf2SortedArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/myCodePractice/Class07/HashTableAndStringI/MissingNumberI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/myCodePractice/Class07/HashTableAndStringI/MissingNumberI.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,12 +18,21 @@
       <file leaf-file-name="CommonNumbersOf2SortedArrays.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class07/HashTableAndStringI/CommonNumbersOf2SortedArrays.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="59" column="13" lean-forward="true" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
+            <state relative-caret-position="220">
+              <caret line="48" column="45" selection-start-line="48" selection-start-column="45" selection-end-line="48" selection-end-column="45" />
               <folding>
-                <element signature="e#0#641#0" expanded="true" />
+                <element signature="e#0#2699#0" expanded="true" />
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DelegatingMethodAccessorImpl.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/jdk/internal/reflect/DelegatingMethodAccessorImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="122">
+              <caret line="42" selection-start-line="42" selection-end-line="42" />
             </state>
           </provider>
         </entry>
@@ -83,7 +91,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -107,6 +114,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -262,6 +270,7 @@
       <workItem from="1531178834984" duration="597000" />
       <workItem from="1531179670541" duration="956000" />
       <workItem from="1531253259502" duration="3982000" />
+      <workItem from="1531424731327" duration="2218000" />
     </task>
     <task id="LOCAL-00001" summary="Init check in class 07">
       <created>1531083325276</created>
@@ -298,43 +307,50 @@
       <option name="project" value="LOCAL" />
       <updated>1531339303407</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Check in test method">
+      <created>1531345010536</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1531345010536</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CommonNumbersOf2SortedArrays_testCommon - 2018.07.11 at 17h 30m 44s.xml">
+    <history-entry file="CommonNumbersOf2SortedArrays_testCommon - 2018.07.12 at 16h 00m 27s.xml">
       <configuration name="CommonNumbersOf2SortedArrays.testCommon" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CommonNumbersOf2SortedArrays_testCommon - 2018.07.11 at 17h 31m 22s.xml">
+    <history-entry file="CommonNumbersOf2SortedArrays_testCommon - 2018.07.12 at 16h 00m 40s.xml">
       <configuration name="CommonNumbersOf2SortedArrays.testCommon" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CommonNumbersOf2SortedArrays_testCommon - 2018.07.11 at 17h 31m 57s.xml">
+    <history-entry file="CommonNumbersOf2SortedArrays_testCommon - 2018.07.12 at 16h 01m 13s.xml">
       <configuration name="CommonNumbersOf2SortedArrays.testCommon" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CommonNumbersOf2SortedArrays_testCommon - 2018.07.11 at 17h 33m 21s.xml">
+    <history-entry file="CommonNumbersOf2SortedArrays_testCommon - 2018.07.12 at 16h 02m 30s.xml">
       <configuration name="CommonNumbersOf2SortedArrays.testCommon" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CommonNumbersOf2SortedArrays_testCommon - 2018.07.11 at 17h 34m 55s.xml">
+    <history-entry file="CommonNumbersOf2SortedArrays_testCommon - 2018.07.12 at 16h 04m 04s.xml">
       <configuration name="CommonNumbersOf2SortedArrays.testCommon" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CommonNumbersOf2SortedArrays_testCommon - 2018.07.11 at 17h 35m 16s.xml">
+    <history-entry file="CommonNumbersOf2SortedArrays_testCommon - 2018.07.12 at 16h 15m 14s.xml">
       <configuration name="CommonNumbersOf2SortedArrays.testCommon" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CommonNumbersOf2SortedArrays_testCommon - 2018.07.11 at 17h 35m 26s.xml">
+    <history-entry file="CommonNumbersOf2SortedArrays_testCommon - 2018.07.12 at 16h 16m 28s.xml">
       <configuration name="CommonNumbersOf2SortedArrays.testCommon" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CommonNumbersOf2SortedArrays - 2018.07.11 at 17h 35m 43s.xml">
-      <configuration name="CommonNumbersOf2SortedArrays" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CommonNumbersOf2SortedArrays_testCommon - 2018.07.11 at 17h 35m 56s.xml">
+    <history-entry file="CommonNumbersOf2SortedArrays_testCommon - 2018.07.12 at 16h 18m 28s.xml">
       <configuration name="CommonNumbersOf2SortedArrays.testCommon" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CommonNumbersOf2SortedArrays_testCommon - 2018.07.11 at 17h 36m 13s.xml">
+    <history-entry file="CommonNumbersOf2SortedArrays_testCommon - 2018.07.12 at 16h 18m 53s.xml">
+      <configuration name="CommonNumbersOf2SortedArrays.testCommon" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CommonNumbersOf2SortedArrays_testCommon - 2018.07.12 at 16h 22m 14s.xml">
       <configuration name="CommonNumbersOf2SortedArrays.testCommon" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16019000" />
+    <option name="totallyTimeSpent" value="18302000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1293" height="773" extended-state="6" />
@@ -348,39 +364,22 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.18575852" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34365326" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34365326" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23690383" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25645036" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3993808" />
-      <window_info anchor="right" id="Palette" order="3" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.36687306" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25645036" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.18575852" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.34365326" />
-      <window_info id="Designer" order="2" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -402,19 +401,21 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/myCodePractice/Class07/HashTableAndStringI/CommonNumbersOf2SortedArrays.java</url>
-          <line>79</line>
+          <line>43</line>
           <properties />
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="2" />
+      <option name="time" value="5" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class07/HashTableAndStringI/TopKFrequentWords.java">
+    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class07/HashTableAndStringI/CommonNumbersOf2SortedArrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1518">
-          <caret line="66" column="5" lean-forward="true" selection-start-line="66" selection-start-column="5" selection-end-line="66" selection-end-column="5" />
+        <state relative-caret-position="1403">
+          <caret line="74" column="9" lean-forward="true" selection-start-line="74" selection-start-column="9" selection-end-line="74" selection-end-column="9" />
           <folding>
+            <element signature="e#0#2699#0" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
         </state>
@@ -422,11 +423,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class07/HashTableAndStringI/TopKFrequentWords.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1518">
+          <caret line="66" column="5" lean-forward="true" selection-start-line="66" selection-start-column="5" selection-end-line="66" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class07/HashTableAndStringI/TopKFrequentWords.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
           <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -490,9 +495,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
           <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#467#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -514,9 +516,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="344">
           <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#549#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -555,9 +554,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="70" column="55" lean-forward="true" selection-start-line="70" selection-start-column="55" selection-end-line="70" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -565,9 +561,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
           <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -673,9 +666,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="69" column="34" lean-forward="true" selection-start-line="69" selection-start-column="34" selection-end-line="69" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -683,10 +673,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1232">
           <caret line="114" column="54" lean-forward="true" selection-start-line="114" selection-start-column="54" selection-end-line="114" selection-end-column="54" />
-          <folding>
-            <element signature="e#0#565#0" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -708,14 +694,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="98">
           <caret line="208" column="5" lean-forward="true" selection-start-line="208" selection-start-column="5" selection-end-line="208" selection-end-column="5" />
-          <folding>
-            <element signature="e#2111#2112#0" expanded="true" />
-            <element signature="e#2155#2156#0" expanded="true" />
-            <element signature="e#5951#6086#0" expanded="true" />
-            <element signature="e#6085#6086#0" expanded="true" />
-            <element signature="e#6484#6648#0" expanded="true" />
-            <element signature="e#6647#6648#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -726,12 +704,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/jdk/internal/reflect/DelegatingMethodAccessorImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class07/HashTableAndStringI/CommonNumbersOf2SortedArrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="59" column="13" lean-forward="true" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
+        <state relative-caret-position="220">
+          <caret line="48" column="45" selection-start-line="48" selection-start-column="45" selection-end-line="48" selection-end-column="45" />
           <folding>
-            <element signature="e#0#641#0" expanded="true" />
+            <element signature="e#0#2699#0" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
         </state>

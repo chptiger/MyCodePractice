@@ -10,7 +10,6 @@
 //        A = {1, 1, 2, 2, 3}, B = {1, 1, 2, 5, 6}, common numbers are [1, 1, 2]
 package com.myCodePractice.Class07.HashTableAndStringI;
 
-import org.hamcrest.CoreMatchers;
 import org.junit.Assert;
 import org.junit.Test;
 
@@ -23,14 +22,14 @@ public class CommonNumbersOf2SortedArrays {
         // Assumption: A and B are both not null
         int i = 0, j = 0;
         List<Integer> common = new ArrayList<>();
-        while (i<A.size() && j < B.size()){
-            if (A.get(i).equals(B.get(j))){
+        while (i < A.size() && j < B.size()) {
+            if (A.get(i).equals(B.get(j))) {
                 common.add(A.get(i));
                 i++;
                 j++;
-            }else if (A.get(i)<B.get(j)){
+            } else if (A.get(i) < B.get(j)) {
                 i++;
-            }else{
+            } else {
                 j++;
             }
         }
@@ -38,47 +37,37 @@ public class CommonNumbersOf2SortedArrays {
     }
 
     // method 2: use HashMap
-    public List<Integer> common_Map(List<Integer> A, List<Integer> B){
+    public List<Integer> common_Map(List<Integer> A, List<Integer> B) {
         List<Integer> common = new ArrayList<>();
-        HashMap<Integer, Integer> countA = new HashMap<>();
-        for (Integer num : A){
-            Integer ct = A.get(num);
-            if (ct != null){
-                countA.put(num, ct+1);
-            }else{
-                countA.put(num, 1);
-            }
-        }
-        HashMap<Integer, Integer> countB = new HashMap<>();
-        for (Integer num : B){
-            System.out.println("B : "+num);
-            Integer ct = B.get(num);
-            if (ct != null){
-                countB.put(num, ct+1);
-            }else{
-                countB.put(num, 1);
-            }
-        }
-        System.out.println();
-        for(Map.Entry<Integer, Integer> entry : countA.entrySet()){
+        HashMap<Integer, Integer> countA = addMap(A);
+        HashMap<Integer, Integer> countB = addMap(B);
+        for (Map.Entry<Integer, Integer> entry : countA.entrySet()) {
             Integer ctInB = countB.get(entry.getKey());
-            if (ctInB!=null){
+            if (ctInB != null) {
                 int appear = Math.min(entry.getValue(), ctInB);
-                for (int i = 0;i<appear;i++){
-                    common.add(ctInB);
+                for (int i = 0; i < appear; i++) {
+                    common.add(entry.getKey());
                 }
             }
         }
         return common;
     }
 
+    private HashMap<Integer, Integer> addMap(List<Integer> list) {
+        HashMap<Integer, Integer> map = new HashMap<>();
+        for (Integer num : list) {
+            Integer ct = map.get(num);
+            if (ct == null) map.put(num, 1);
+            else map.put(num, ct + 1);
+        }
+        return map;
+    }
+
     @Test
-    public void testCommon(){
-        List<Integer> a = Arrays.asList(1,2,3,1,4);
-        List<Integer> b = Arrays.asList(2,3,1,1,0);
-        //System.out.println(common(a,b));
-        System.out.println(common_Map(a,b));
-//        Assert.assertEquals(Arrays.asList(1,1,2,3), common(a,b));
-//        Assert.assertEquals(Arrays.asList(1,1,2,3), common_Map(a,b));
+    public void testCommon() {
+        List<Integer> a = Arrays.asList(1, 1, 2, 2, 3);
+        List<Integer> b = Arrays.asList(1, 1, 2, 5, 6);
+        Assert.assertEquals(Arrays.asList(1, 1, 2), common(a, b));
+        Assert.assertEquals(Arrays.asList(1, 1, 2), common_Map(a, b));
     }
 }
