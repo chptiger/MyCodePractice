@@ -41,9 +41,7 @@ public class RemoveCertainCharacters {
                 array[slow++] = array[fast];
             }
         }
-
         return new String(array, 0, slow);
-
     }
 
     @Test
