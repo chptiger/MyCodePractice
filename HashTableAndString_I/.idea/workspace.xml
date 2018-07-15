@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="efb8d826-7088-4c26-9961-3a1011c3fc86" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/myCodePractice/Class07/HashTableAndStringI/RemoveAdjacentRepeatedCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/myCodePractice/Class07/HashTableAndStringI/RemoveAdjacentRepeatedCharacters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/myCodePractice/Class07/HashTableAndStringI/RemoveAdjacentRepeatedCharactersIV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/myCodePractice/Class07/HashTableAndStringI/RemoveAdjacentRepeatedCharactersIV.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -76,7 +74,7 @@
       <file leaf-file-name="RemoveAdjacentRepeatedCharactersIV.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class07/HashTableAndStringI/RemoveAdjacentRepeatedCharactersIV.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
+            <state relative-caret-position="376">
               <caret line="57" column="5" lean-forward="true" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
               <folding>
                 <element signature="e#0#514#0" expanded="true" />
@@ -355,7 +353,7 @@
       <workItem from="1531253259502" duration="3982000" />
       <workItem from="1531424731327" duration="2218000" />
       <workItem from="1531449074641" duration="7228000" />
-      <workItem from="1531509809595" duration="2830000" />
+      <workItem from="1531509809595" duration="2878000" />
     </task>
     <task id="LOCAL-00001" summary="Init check in class 07">
       <created>1531083325276</created>
@@ -413,7 +411,14 @@
       <option name="project" value="LOCAL" />
       <updated>1531509866105</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="finish class 07 practices">
+      <created>1531615938001</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1531615938001</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -449,7 +454,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28360000" />
+    <option name="totallyTimeSpent" value="28408000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -462,7 +467,7 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.18575852" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2645241" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2645241" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49938196" visible="true" weight="0.2353362" />
@@ -494,7 +499,8 @@
     <MESSAGE value="Check in test method" />
     <MESSAGE value="Check in some practice of Class 07" />
     <MESSAGE value="Check in some practice of Class 07 of remove chars" />
-    <option name="LAST_COMMIT_MESSAGE" value="Check in some practice of Class 07 of remove chars" />
+    <MESSAGE value="finish class 07 practices" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish class 07 practices" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -879,7 +885,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class07/HashTableAndStringI/RemoveAdjacentRepeatedCharactersIV.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
+        <state relative-caret-position="376">
           <caret line="57" column="5" lean-forward="true" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
           <folding>
             <element signature="e#0#514#0" expanded="true" />
