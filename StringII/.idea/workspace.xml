@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8aea640f-dfe9-4cec-9607-339403c5d869" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/myCodePractice/Class08/StringReplace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/myCodePractice/Class08/StringReplace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/myCodePractice/Class08/ReorderArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/myCodePractice/Class08/ReorderArray.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="StringReplace.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class08/StringReplace.java">
+      <file leaf-file-name="ReorderArray.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class08/ReorderArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-171">
-              <caret line="81" column="32" selection-start-line="81" selection-start-column="32" selection-end-line="81" selection-end-column="32" />
+            <state relative-caret-position="353">
+              <caret line="52" column="59" selection-start-line="52" selection-start-column="59" selection-end-line="52" selection-end-column="59" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -48,11 +48,11 @@
         <option value="$PROJECT_DIR$/src/com/myCodePractice/Class08/LongestSubstringWithOnluUniqueChar.java" />
         <option value="$PROJECT_DIR$/src/com/myCodePractice/Class08/AllAnagrams.java" />
         <option value="$PROJECT_DIR$/src/com/myCodePractice/Class08/LongestSubstringWithoutRepeatingCharacters.java" />
-        <option value="$PROJECT_DIR$/src/com/myCodePractice/Class08/ReorderArray.java" />
         <option value="$PROJECT_DIR$/src/com/myCodePractice/Class08/ReverseString.java" />
         <option value="$PROJECT_DIR$/src/com/myCodePractice/Class08/ReverseWordsInSentence.java" />
         <option value="$PROJECT_DIR$/src/com/myCodePractice/Class08/RightShiftByNChar.java" />
         <option value="$PROJECT_DIR$/src/com/myCodePractice/Class08/StringReplace.java" />
+        <option value="$PROJECT_DIR$/src/com/myCodePractice/Class08/ReorderArray.java" />
       </list>
     </option>
   </component>
@@ -122,9 +122,32 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.StringReplace.test_stringReplace">
+  <component name="RunManager" selected="JUnit.ReorderArray.test_StringShuffling">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="ReorderArray.test_StringShuffling" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StringII" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myCodePractice.Class08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.myCodePractice.Class08" />
+      <option name="MAIN_CLASS_NAME" value="com.myCodePractice.Class08.ReorderArray" />
+      <option name="METHOD_NAME" value="test_StringShuffling" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration name="ReverseString.test_reverseString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="StringII" />
@@ -261,9 +284,11 @@
       <item itemvalue="JUnit.ReverseWordsInSentence.test_reverseWords" />
       <item itemvalue="JUnit.RightShiftByNChar.test_rightShift" />
       <item itemvalue="JUnit.StringReplace.test_stringReplace" />
+      <item itemvalue="JUnit.ReorderArray.test_StringShuffling" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ReorderArray.test_StringShuffling" />
         <item itemvalue="JUnit.StringReplace.test_stringReplace" />
         <item itemvalue="JUnit.RightShiftByNChar.test_rightShift" />
         <item itemvalue="JUnit.ReverseWordsInSentence.test_reverseWords" />
@@ -282,7 +307,7 @@
       <option name="presentableId" value="Default" />
       <updated>1531447363655</updated>
       <workItem from="1531447365022" duration="296000" />
-      <workItem from="1531615976162" duration="6146000" />
+      <workItem from="1531615976162" duration="7699000" />
     </task>
     <task id="LOCAL-00001" summary="init class 08">
       <created>1531447447478</created>
@@ -333,13 +358,17 @@
       <option name="project" value="LOCAL" />
       <updated>1531622399212</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="check in string replace method 2 by char[]">
+      <created>1531623921108</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1531623921108</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ReverseWordsInSentence_test_reverseWords - 2018.07.14 at 21h 55m 46s.xml">
-      <configuration name="ReverseWordsInSentence.test_reverseWords" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ReverseWordsInSentence_test_reverseWords - 2018.07.14 at 21h 56m 30s.xml">
       <configuration name="ReverseWordsInSentence.test_reverseWords" configurationId="JUnit" />
     </history-entry>
@@ -367,9 +396,12 @@
     <history-entry file="StringReplace_test_stringReplace - 2018.07.14 at 22h 59m 46s.xml">
       <configuration name="StringReplace.test_stringReplace" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ReorderArray_test_StringShuffling - 2018.07.14 at 23h 19m 38s.xml">
+      <configuration name="ReorderArray.test_StringShuffling" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6442000" />
+    <option name="totallyTimeSpent" value="7995000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -415,7 +447,8 @@
     <MESSAGE value="check in reverse words in a sentence" />
     <MESSAGE value="check in right shift" />
     <MESSAGE value="check in string replace" />
-    <option name="LAST_COMMIT_MESSAGE" value="check in string replace" />
+    <MESSAGE value="check in string replace method 2 by char[]" />
+    <option name="LAST_COMMIT_MESSAGE" value="check in string replace method 2 by char[]" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class08/ReverseString.java">
@@ -513,13 +546,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class08/ReorderArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class08/StringShuffling.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
@@ -573,8 +599,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class08/StringReplace.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-171">
-          <caret line="81" column="32" selection-start-line="81" selection-start-column="32" selection-end-line="81" selection-end-column="32" />
+        <state relative-caret-position="149">
+          <caret line="20" column="47" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class08/ReorderArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="52" column="59" selection-start-line="52" selection-start-column="59" selection-end-line="52" selection-end-column="59" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
