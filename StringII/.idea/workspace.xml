@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8aea640f-dfe9-4cec-9607-339403c5d869" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/myCodePractice/Class08/RightShiftByNChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/myCodePractice/Class08/RightShiftByNChar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/myCodePractice/Class08/StringReplace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/myCodePractice/Class08/StringReplace.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="RightShiftByNChar.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class08/RightShiftByNChar.java">
+      <file leaf-file-name="StringReplace.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class08/StringReplace.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="43" column="53" selection-start-line="43" selection-start-column="53" selection-end-line="43" selection-end-column="53" />
+            <state relative-caret-position="309">
+              <caret line="32" column="88" selection-start-line="32" selection-start-column="88" selection-end-line="32" selection-end-column="88" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -46,13 +46,13 @@
         <option value="$PROJECT_DIR$/src/com/myCodePractice/Class08/AllPermutationsII.java" />
         <option value="$PROJECT_DIR$/src/com/myCodePractice/Class08/DecompressStringII.java" />
         <option value="$PROJECT_DIR$/src/com/myCodePractice/Class08/LongestSubstringWithOnluUniqueChar.java" />
-        <option value="$PROJECT_DIR$/src/com/myCodePractice/Class08/StringReplace.java" />
         <option value="$PROJECT_DIR$/src/com/myCodePractice/Class08/AllAnagrams.java" />
         <option value="$PROJECT_DIR$/src/com/myCodePractice/Class08/LongestSubstringWithoutRepeatingCharacters.java" />
         <option value="$PROJECT_DIR$/src/com/myCodePractice/Class08/ReorderArray.java" />
         <option value="$PROJECT_DIR$/src/com/myCodePractice/Class08/ReverseString.java" />
         <option value="$PROJECT_DIR$/src/com/myCodePractice/Class08/ReverseWordsInSentence.java" />
         <option value="$PROJECT_DIR$/src/com/myCodePractice/Class08/RightShiftByNChar.java" />
+        <option value="$PROJECT_DIR$/src/com/myCodePractice/Class08/StringReplace.java" />
       </list>
     </option>
   </component>
@@ -122,7 +122,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.RightShiftByNChar.test_rightShift">
+  <component name="RunManager" selected="JUnit.StringReplace.test_stringReplace">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -195,6 +195,29 @@
       </option>
       <patterns />
     </configuration>
+    <configuration name="StringReplace.test_stringReplace" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StringII" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myCodePractice.Class08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.myCodePractice.Class08" />
+      <option name="MAIN_CLASS_NAME" value="com.myCodePractice.Class08.StringReplace" />
+      <option name="METHOD_NAME" value="test_stringReplace" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -237,9 +260,11 @@
       <item itemvalue="JUnit.ReverseString.test_reverseString" />
       <item itemvalue="JUnit.ReverseWordsInSentence.test_reverseWords" />
       <item itemvalue="JUnit.RightShiftByNChar.test_rightShift" />
+      <item itemvalue="JUnit.StringReplace.test_stringReplace" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.StringReplace.test_stringReplace" />
         <item itemvalue="JUnit.RightShiftByNChar.test_rightShift" />
         <item itemvalue="JUnit.ReverseWordsInSentence.test_reverseWords" />
         <item itemvalue="JUnit.ReverseString.test_reverseString" />
@@ -257,7 +282,7 @@
       <option name="presentableId" value="Default" />
       <updated>1531447363655</updated>
       <workItem from="1531447365022" duration="296000" />
-      <workItem from="1531615976162" duration="3723000" />
+      <workItem from="1531615976162" duration="4581000" />
     </task>
     <task id="LOCAL-00001" summary="init class 08">
       <created>1531447447478</created>
@@ -294,13 +319,17 @@
       <option name="project" value="LOCAL" />
       <updated>1531619850016</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="check in right shift">
+      <created>1531620459151</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1531620459151</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ReverseString_test_reverseString - 2018.07.14 at 21h 23m 11s.xml">
-      <configuration name="ReverseString.test_reverseString" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ReverseString_test_reverseString - 2018.07.14 at 21h 28m 19s.xml">
       <configuration name="ReverseString.test_reverseString" configurationId="JUnit" />
     </history-entry>
@@ -319,9 +348,21 @@
     <history-entry file="RightShiftByNChar_test_rightShift - 2018.07.14 at 22h 04m 46s.xml">
       <configuration name="RightShiftByNChar.test_rightShift" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="RightShiftByNChar_test_rightShift - 2018.07.14 at 22h 07m 16s.xml">
+      <configuration name="RightShiftByNChar.test_rightShift" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringReplace_test_stringReplace - 2018.07.14 at 22h 35m 08s.xml">
+      <configuration name="StringReplace.test_stringReplace" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringReplace_test_stringReplace - 2018.07.14 at 22h 35m 28s.xml">
+      <configuration name="StringReplace.test_stringReplace" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringReplace_test_stringReplace - 2018.07.14 at 22h 36m 24s.xml">
+      <configuration name="StringReplace.test_stringReplace" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4019000" />
+    <option name="totallyTimeSpent" value="4877000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -365,7 +406,8 @@
     <MESSAGE value="init class 08 with description" />
     <MESSAGE value="check in reverse string" />
     <MESSAGE value="check in reverse words in a sentence" />
-    <option name="LAST_COMMIT_MESSAGE" value="check in reverse words in a sentence" />
+    <MESSAGE value="check in right shift" />
+    <option name="LAST_COMMIT_MESSAGE" value="check in right shift" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class08/ReverseString.java">
@@ -463,13 +505,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class08/StringReplace.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class08/ReorderArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="403">
@@ -520,8 +555,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class08/RightShiftByNChar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="43" column="53" selection-start-line="43" selection-start-column="53" selection-end-line="43" selection-end-column="53" />
+        <state relative-caret-position="154">
+          <caret line="34" column="32" lean-forward="true" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class08/StringReplace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="32" column="88" selection-start-line="32" selection-start-column="88" selection-end-line="32" selection-end-column="88" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
