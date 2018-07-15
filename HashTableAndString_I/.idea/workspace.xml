@@ -5,7 +5,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/myCodePractice/Class07/HashTableAndStringI/RemoveAdjacentRepeatedCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/myCodePractice/Class07/HashTableAndStringI/RemoveAdjacentRepeatedCharacters.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/myCodePractice/Class07/HashTableAndStringI/RemoveAdjacentRepeatedCharactersIV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/myCodePractice/Class07/HashTableAndStringI/RemoveAdjacentRepeatedCharactersIV.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/myCodePractice/Class07/HashTableAndStringI/RemoveCertainCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/myCodePractice/Class07/HashTableAndStringI/RemoveCertainCharacters.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -65,8 +64,8 @@
       <file leaf-file-name="RemoveAdjacentRepeatedCharacters.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class07/HashTableAndStringI/RemoveAdjacentRepeatedCharacters.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="552">
-              <caret line="36" column="45" selection-start-line="36" selection-start-column="45" selection-end-line="36" selection-end-column="45" />
+            <state relative-caret-position="117">
+              <caret line="20" column="51" lean-forward="true" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -77,8 +76,12 @@
       <file leaf-file-name="RemoveAdjacentRepeatedCharactersIV.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class07/HashTableAndStringI/RemoveAdjacentRepeatedCharactersIV.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+            <state relative-caret-position="247">
+              <caret line="57" column="5" lean-forward="true" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
+              <folding>
+                <element signature="e#0#514#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -144,8 +147,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="24" />
-    <option name="y" value="34" />
+    <option name="x" value="240" />
+    <option name="y" value="24" />
     <option name="width" value="1238" />
     <option name="height" value="738" />
   </component>
@@ -202,8 +205,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.RemoveAdjacentRepeatedCharacters.test_RemoveAdjancent">
-    <configuration name="CommonNumbersOf2SortedArrays.testCommon" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.RemoveAdjacentRepeatedCharactersIV.test_deDup">
+    <configuration name="RemoveAdjacentRepeatedCharactersIV" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="HashTableAndString_I" />
       <extension name="coverage">
         <pattern>
@@ -214,9 +217,9 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.myCodePractice.Class07.HashTableAndStringI" />
-      <option name="MAIN_CLASS_NAME" value="com.myCodePractice.Class07.HashTableAndStringI.CommonNumbersOf2SortedArrays" />
-      <option name="METHOD_NAME" value="testCommon" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="com.myCodePractice.Class07.HashTableAndStringI.RemoveAdjacentRepeatedCharactersIV" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -226,7 +229,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="DetermineIfOneStringIsAnothersSubstring.testSubstring" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RemoveAdjacentRepeatedCharactersIV.test_deDup" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="HashTableAndString_I" />
       <extension name="coverage">
         <pattern>
@@ -237,8 +240,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.myCodePractice.Class07.HashTableAndStringI" />
-      <option name="MAIN_CLASS_NAME" value="com.myCodePractice.Class07.HashTableAndStringI.DetermineIfOneStringIsAnothersSubstring" />
-      <option name="METHOD_NAME" value="testSubstring" />
+      <option name="MAIN_CLASS_NAME" value="com.myCodePractice.Class07.HashTableAndStringI.RemoveAdjacentRepeatedCharactersIV" />
+      <option name="METHOD_NAME" value="test_deDup" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
@@ -319,19 +322,19 @@
       <patterns />
     </configuration>
     <list>
-      <item itemvalue="JUnit.CommonNumbersOf2SortedArrays.testCommon" />
-      <item itemvalue="JUnit.DetermineIfOneStringIsAnothersSubstring.testSubstring" />
       <item itemvalue="JUnit.RemoveSpaces.test_RemoveSpaces" />
       <item itemvalue="JUnit.RemoveCertainCharacters.test_RemovCertainChar" />
       <item itemvalue="JUnit.RemoveAdjacentRepeatedCharacters.test_RemoveAdjancent" />
+      <item itemvalue="JUnit.RemoveAdjacentRepeatedCharactersIV.test_deDup" />
+      <item itemvalue="JUnit.RemoveAdjacentRepeatedCharactersIV" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.RemoveAdjacentRepeatedCharactersIV.test_deDup" />
+        <item itemvalue="JUnit.RemoveAdjacentRepeatedCharactersIV" />
         <item itemvalue="JUnit.RemoveAdjacentRepeatedCharacters.test_RemoveAdjancent" />
         <item itemvalue="JUnit.RemoveCertainCharacters.test_RemovCertainChar" />
         <item itemvalue="JUnit.RemoveSpaces.test_RemoveSpaces" />
-        <item itemvalue="JUnit.DetermineIfOneStringIsAnothersSubstring.testSubstring" />
-        <item itemvalue="JUnit.CommonNumbersOf2SortedArrays.testCommon" />
       </list>
     </recent_temporary>
   </component>
@@ -352,7 +355,7 @@
       <workItem from="1531253259502" duration="3982000" />
       <workItem from="1531424731327" duration="2218000" />
       <workItem from="1531449074641" duration="7228000" />
-      <workItem from="1531509809595" duration="12000" />
+      <workItem from="1531509809595" duration="2830000" />
     </task>
     <task id="LOCAL-00001" summary="Init check in class 07">
       <created>1531083325276</created>
@@ -403,59 +406,66 @@
       <option name="project" value="LOCAL" />
       <updated>1531503631142</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Check in some practice of Class 07 of remove chars">
+      <created>1531509866105</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1531509866105</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RemoveSpaces_test_RemoveSpaces - 2018.07.13 at 12h 11m 45s.xml">
-      <configuration name="RemoveSpaces.test_RemoveSpaces" configurationId="JUnit" />
+    <history-entry file="RemoveAdjacentRepeatedCharactersIV_test_deDup - 2018.07.13 at 16h 35m 48s.xml">
+      <configuration name="RemoveAdjacentRepeatedCharactersIV.test_deDup" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RemoveSpaces_test_RemoveSpaces - 2018.07.13 at 12h 12m 21s.xml">
-      <configuration name="RemoveSpaces.test_RemoveSpaces" configurationId="JUnit" />
+    <history-entry file="RemoveAdjacentRepeatedCharactersIV_test_deDup - 2018.07.13 at 16h 37m 10s.xml">
+      <configuration name="RemoveAdjacentRepeatedCharactersIV.test_deDup" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RemoveSpaces_test_RemoveSpaces - 2018.07.13 at 12h 12m 26s.xml">
-      <configuration name="RemoveSpaces.test_RemoveSpaces" configurationId="JUnit" />
+    <history-entry file="RemoveAdjacentRepeatedCharactersIV_test_deDup - 2018.07.13 at 16h 37m 28s.xml">
+      <configuration name="RemoveAdjacentRepeatedCharactersIV.test_deDup" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RemoveCertainCharacters_test_RemovCertainChar - 2018.07.13 at 13h 31m 16s.xml">
-      <configuration name="RemoveCertainCharacters.test_RemovCertainChar" configurationId="JUnit" />
+    <history-entry file="RemoveAdjacentRepeatedCharactersIV_test_deDup - 2018.07.13 at 16h 38m 12s.xml">
+      <configuration name="RemoveAdjacentRepeatedCharactersIV.test_deDup" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RemoveCertainCharacters_test_RemovCertainChar - 2018.07.13 at 13h 38m 41s.xml">
-      <configuration name="RemoveCertainCharacters.test_RemovCertainChar" configurationId="JUnit" />
+    <history-entry file="RemoveAdjacentRepeatedCharactersIV - 2018.07.13 at 16h 39m 43s.xml">
+      <configuration name="RemoveAdjacentRepeatedCharactersIV" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RemoveCertainCharacters_test_RemovCertainChar - 2018.07.13 at 13h 39m 28s.xml">
-      <configuration name="RemoveCertainCharacters.test_RemovCertainChar" configurationId="JUnit" />
+    <history-entry file="RemoveAdjacentRepeatedCharactersIV_test_deDup - 2018.07.13 at 16h 39m 47s.xml">
+      <configuration name="RemoveAdjacentRepeatedCharactersIV.test_deDup" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RemoveCertainCharacters_test_RemovCertainChar - 2018.07.13 at 13h 39m 52s.xml">
-      <configuration name="RemoveCertainCharacters.test_RemovCertainChar" configurationId="JUnit" />
+    <history-entry file="RemoveAdjacentRepeatedCharactersIV_test_deDup - 2018.07.13 at 16h 39m 55s.xml">
+      <configuration name="RemoveAdjacentRepeatedCharactersIV.test_deDup" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RemoveAdjacentRepeatedCharacters_test_RemoveAdjancent - 2018.07.13 at 13h 55m 07s.xml">
-      <configuration name="RemoveAdjacentRepeatedCharacters.test_RemoveAdjancent" configurationId="JUnit" />
+    <history-entry file="RemoveAdjacentRepeatedCharactersIV_test_deDup - 2018.07.13 at 16h 41m 00s.xml">
+      <configuration name="RemoveAdjacentRepeatedCharactersIV.test_deDup" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RemoveAdjacentRepeatedCharacters_test_RemoveAdjancent - 2018.07.13 at 13h 55m 53s.xml">
-      <configuration name="RemoveAdjacentRepeatedCharacters.test_RemoveAdjancent" configurationId="JUnit" />
+    <history-entry file="RemoveAdjacentRepeatedCharactersIV - 2018.07.13 at 16h 50m 55s.xml">
+      <configuration name="RemoveAdjacentRepeatedCharactersIV" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RemoveAdjacentRepeatedCharacters_test_RemoveAdjancent - 2018.07.13 at 13h 56m 55s.xml">
-      <configuration name="RemoveAdjacentRepeatedCharacters.test_RemoveAdjancent" configurationId="JUnit" />
+    <history-entry file="RemoveAdjacentRepeatedCharactersIV_test_deDup - 2018.07.13 at 16h 52m 04s.xml">
+      <configuration name="RemoveAdjacentRepeatedCharactersIV.test_deDup" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25542000" />
+    <option name="totallyTimeSpent" value="28360000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32972136" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.18575852" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3424" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2645241" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49938196" visible="true" weight="0.2353362" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49938196" visible="true" weight="0.2353362" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" sideWeight="0.50061804" side_tool="true" weight="0.010729614" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -468,7 +478,6 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.32972136" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -484,11 +493,12 @@
     <MESSAGE value="Check in config files" />
     <MESSAGE value="Check in test method" />
     <MESSAGE value="Check in some practice of Class 07" />
-    <option name="LAST_COMMIT_MESSAGE" value="Check in some practice of Class 07" />
+    <MESSAGE value="Check in some practice of Class 07 of remove chars" />
+    <option name="LAST_COMMIT_MESSAGE" value="Check in some practice of Class 07 of remove chars" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="5" />
+      <option name="time" value="8" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -550,6 +560,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
           <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#0#514#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -855,8 +869,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class07/HashTableAndStringI/RemoveAdjacentRepeatedCharacters.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="36" column="45" selection-start-line="36" selection-start-column="45" selection-end-line="36" selection-end-column="45" />
+        <state relative-caret-position="117">
+          <caret line="20" column="51" lean-forward="true" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -865,8 +879,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class07/HashTableAndStringI/RemoveAdjacentRepeatedCharactersIV.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+        <state relative-caret-position="247">
+          <caret line="57" column="5" lean-forward="true" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#514#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

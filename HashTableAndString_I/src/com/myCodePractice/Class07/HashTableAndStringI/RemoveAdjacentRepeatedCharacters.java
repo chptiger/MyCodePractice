@@ -18,13 +18,13 @@ import org.junit.Test;
 public class RemoveAdjacentRepeatedCharacters {
     public String deDup(String input) {
         // Write your solution here
-        if (input == null || input.length() <= 1){
+        if (input == null || input.length() <= 1) {
             return input;
         }
         char[] array = input.toCharArray();
         int slow = 1;
-        for (int fast = 1; fast<array.length;fast++){
-            if (array[fast] != array[fast-1]){
+        for (int fast = 1; fast < array.length; fast++) {
+            if (array[fast] != array[fast - 1]) {
                 array[slow++] = array[fast];
             }
         }
@@ -32,7 +32,7 @@ public class RemoveAdjacentRepeatedCharacters {
     }
 
     @Test
-    public void test_RemoveAdjancent(){
+    public void test_RemoveAdjancent() {
         Assert.assertEquals("abc", deDup("aaaabbbbcccc"));
         Assert.assertEquals("a", deDup("a"));
         Assert.assertEquals("a", deDup("aaaaa"));
