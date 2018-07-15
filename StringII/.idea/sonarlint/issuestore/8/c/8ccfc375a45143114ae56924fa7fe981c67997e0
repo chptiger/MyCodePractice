@@ -1,0 +1,7 @@
+
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(íŽõâÿÿÿÿÿ
+Š squid:ForLoopCounterChangedCheckb"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK8£ì­äÉ,
+]squid:UselessImportCheck"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8÷…àäÉ,
+msquid:S00100p"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ž°Êô8Ì¸ßãÉ,
+isquid:CommentedOutCodeLineq"<This block of commented-out lines of code should be removed.(×§Œ•8”ÕÏäÉ,
+‹ squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(Øú¤Ø8™ŸæãÉ,
