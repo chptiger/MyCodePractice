@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8aea640f-dfe9-4cec-9607-339403c5d869" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/myCodePractice/Class08/ReorderArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/myCodePractice/Class08/ReorderArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/myCodePractice/Class08/AllPermutationsII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/myCodePractice/Class08/AllPermutationsII.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,13 +14,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ReorderArray.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class08/ReorderArray.java">
+    <leaf>
+      <file leaf-file-name="AllPermutationsII.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class08/AllPermutationsII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="353">
-              <caret line="52" column="59" selection-start-line="52" selection-start-column="59" selection-end-line="52" selection-end-column="59" />
+            <state relative-caret-position="271">
+              <caret line="65" column="74" lean-forward="true" selection-start-line="65" selection-start-column="74" selection-end-line="65" selection-end-column="74" />
               <folding>
+                <element signature="e#0#647#0" expanded="true" />
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
@@ -43,16 +44,16 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/com/myCodePractice/Class08/FindAllAnagramsOfShortStringInALongString.java" />
-        <option value="$PROJECT_DIR$/src/com/myCodePractice/Class08/AllPermutationsII.java" />
         <option value="$PROJECT_DIR$/src/com/myCodePractice/Class08/DecompressStringII.java" />
         <option value="$PROJECT_DIR$/src/com/myCodePractice/Class08/LongestSubstringWithOnluUniqueChar.java" />
-        <option value="$PROJECT_DIR$/src/com/myCodePractice/Class08/AllAnagrams.java" />
         <option value="$PROJECT_DIR$/src/com/myCodePractice/Class08/LongestSubstringWithoutRepeatingCharacters.java" />
         <option value="$PROJECT_DIR$/src/com/myCodePractice/Class08/ReverseString.java" />
         <option value="$PROJECT_DIR$/src/com/myCodePractice/Class08/ReverseWordsInSentence.java" />
         <option value="$PROJECT_DIR$/src/com/myCodePractice/Class08/RightShiftByNChar.java" />
         <option value="$PROJECT_DIR$/src/com/myCodePractice/Class08/StringReplace.java" />
         <option value="$PROJECT_DIR$/src/com/myCodePractice/Class08/ReorderArray.java" />
+        <option value="$PROJECT_DIR$/src/com/myCodePractice/Class08/AllAnagrams.java" />
+        <option value="$PROJECT_DIR$/src/com/myCodePractice/Class08/AllPermutationsII.java" />
       </list>
     </option>
   </component>
@@ -66,9 +67,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="797" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -109,6 +109,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -122,9 +123,32 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ReorderArray.test_StringShuffling">
+  <component name="RunManager" selected="JUnit.AllPermutationsII.test_allPermutations">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="AllPermutationsII.test_allPermutations" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StringII" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myCodePractice.Class08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.myCodePractice.Class08" />
+      <option name="MAIN_CLASS_NAME" value="com.myCodePractice.Class08.AllPermutationsII" />
+      <option name="METHOD_NAME" value="test_allPermutations" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration name="ReorderArray.test_StringShuffling" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="StringII" />
@@ -139,29 +163,6 @@
       <option name="PACKAGE_NAME" value="com.myCodePractice.Class08" />
       <option name="MAIN_CLASS_NAME" value="com.myCodePractice.Class08.ReorderArray" />
       <option name="METHOD_NAME" value="test_StringShuffling" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="ReverseString.test_reverseString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="StringII" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.myCodePractice.Class08.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.myCodePractice.Class08" />
-      <option name="MAIN_CLASS_NAME" value="com.myCodePractice.Class08.ReverseString" />
-      <option name="METHOD_NAME" value="test_reverseString" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -280,19 +281,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.ReverseString.test_reverseString" />
       <item itemvalue="JUnit.ReverseWordsInSentence.test_reverseWords" />
       <item itemvalue="JUnit.RightShiftByNChar.test_rightShift" />
       <item itemvalue="JUnit.StringReplace.test_stringReplace" />
       <item itemvalue="JUnit.ReorderArray.test_StringShuffling" />
+      <item itemvalue="JUnit.AllPermutationsII.test_allPermutations" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.AllPermutationsII.test_allPermutations" />
         <item itemvalue="JUnit.ReorderArray.test_StringShuffling" />
         <item itemvalue="JUnit.StringReplace.test_stringReplace" />
         <item itemvalue="JUnit.RightShiftByNChar.test_rightShift" />
         <item itemvalue="JUnit.ReverseWordsInSentence.test_reverseWords" />
-        <item itemvalue="JUnit.ReverseString.test_reverseString" />
       </list>
     </recent_temporary>
   </component>
@@ -307,7 +308,8 @@
       <option name="presentableId" value="Default" />
       <updated>1531447363655</updated>
       <workItem from="1531447365022" duration="296000" />
-      <workItem from="1531615976162" duration="7699000" />
+      <workItem from="1531615976162" duration="7912000" />
+      <workItem from="1531628056540" duration="2124000" />
     </task>
     <task id="LOCAL-00001" summary="init class 08">
       <created>1531447447478</created>
@@ -365,22 +367,17 @@
       <option name="project" value="LOCAL" />
       <updated>1531623921108</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="check in string shuffling">
+      <created>1531625487177</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1531625487177</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ReverseWordsInSentence_test_reverseWords - 2018.07.14 at 21h 56m 30s.xml">
-      <configuration name="ReverseWordsInSentence.test_reverseWords" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReverseWordsInSentence_test_reverseWords - 2018.07.14 at 21h 56m 52s.xml">
-      <configuration name="ReverseWordsInSentence.test_reverseWords" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RightShiftByNChar_test_rightShift - 2018.07.14 at 22h 04m 46s.xml">
-      <configuration name="RightShiftByNChar.test_rightShift" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RightShiftByNChar_test_rightShift - 2018.07.14 at 22h 07m 16s.xml">
-      <configuration name="RightShiftByNChar.test_rightShift" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="StringReplace_test_stringReplace - 2018.07.14 at 22h 35m 08s.xml">
       <configuration name="StringReplace.test_stringReplace" configurationId="JUnit" />
     </history-entry>
@@ -399,27 +396,50 @@
     <history-entry file="ReorderArray_test_StringShuffling - 2018.07.14 at 23h 19m 38s.xml">
       <configuration name="ReorderArray.test_StringShuffling" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="AllPermutationsII_test_allPermutations - 2018.07.15 at 01h 15m 28s.xml">
+      <configuration name="AllPermutationsII.test_allPermutations" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AllPermutationsII_test_allPermutations - 2018.07.15 at 01h 32m 55s.xml">
+      <configuration name="AllPermutationsII.test_allPermutations" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AllPermutationsII_test_allPermutations - 2018.07.15 at 01h 33m 14s.xml">
+      <configuration name="AllPermutationsII.test_allPermutations" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AllPermutationsII_test_allPermutations - 2018.07.15 at 01h 33m 42s.xml">
+      <configuration name="AllPermutationsII.test_allPermutations" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7995000" />
+    <option name="totallyTimeSpent" value="10332000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.20889987" />
+      <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32880098" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.27935722" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.27935722" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
+      <window_info anchor="bottom" id="SonarLint" order="12" weight="0.32880098" />
       <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -430,7 +450,6 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -448,16 +467,14 @@
     <MESSAGE value="check in right shift" />
     <MESSAGE value="check in string replace" />
     <MESSAGE value="check in string replace method 2 by char[]" />
-    <option name="LAST_COMMIT_MESSAGE" value="check in string replace method 2 by char[]" />
+    <MESSAGE value="check in string shuffling" />
+    <option name="LAST_COMMIT_MESSAGE" value="check in string shuffling" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class08/ReverseString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
           <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -485,13 +502,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class08/StringShuffling.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class08/StringShuffling.java" />
     <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class08/AllPermutationsII.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
@@ -526,16 +537,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class08/AllPermutationsII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#623#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class08/DecompressStringII.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
@@ -546,24 +547,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class08/StringShuffling.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class08/StringShuffling.java" />
     <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class08/LongestSubstringWithoutRepeatingCharacters.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class08/AllAnagrams.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -609,9 +597,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class08/ReorderArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="52" column="59" selection-start-line="52" selection-start-column="59" selection-end-line="52" selection-end-column="59" />
+        <state relative-caret-position="219">
+          <caret line="13" column="2" lean-forward="true" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
           <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class08/AllAnagrams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class08/AllPermutationsII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="65" column="74" lean-forward="true" selection-start-line="65" selection-start-column="74" selection-end-line="65" selection-end-column="74" />
+          <folding>
+            <element signature="e#0#647#0" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
         </state>
