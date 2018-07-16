@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8aea640f-dfe9-4cec-9607-339403c5d869" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/myCodePractice/Class08/LongestSubstringWithoutRepeatingCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/myCodePractice/Class08/LongestSubstringWithoutRepeatingCharacters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/myCodePractice/Class08/AllAnagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/myCodePractice/Class08/AllAnagrams.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,24 +15,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="AllAnagrams.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="AllAnagrams.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class08/AllAnagrams.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+            <state relative-caret-position="256">
+              <caret line="85" column="38" lean-forward="true" selection-start-line="85" selection-start-column="38" selection-end-line="85" selection-end-column="38" />
+              <folding>
+                <element signature="e#0#612#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LongestSubstringWithoutRepeatingCharacters.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class08/LongestSubstringWithoutRepeatingCharacters.java">
+      <file leaf-file-name="AllPermutationsII.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class08/AllPermutationsII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="27" column="62" lean-forward="true" selection-start-line="27" selection-start-column="62" selection-end-line="27" selection-end-column="62" />
+            <state relative-caret-position="295">
+              <caret line="65" column="76" selection-start-line="65" selection-start-column="76" selection-end-line="65" selection-end-column="76" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1481#1482#0" expanded="true" />
-                <element signature="e#1538#1539#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -60,10 +62,10 @@
         <option value="$PROJECT_DIR$/src/com/myCodePractice/Class08/RightShiftByNChar.java" />
         <option value="$PROJECT_DIR$/src/com/myCodePractice/Class08/StringReplace.java" />
         <option value="$PROJECT_DIR$/src/com/myCodePractice/Class08/ReorderArray.java" />
-        <option value="$PROJECT_DIR$/src/com/myCodePractice/Class08/AllAnagrams.java" />
         <option value="$PROJECT_DIR$/src/com/myCodePractice/Class08/AllPermutationsII.java" />
         <option value="$PROJECT_DIR$/src/com/myCodePractice/Class08/DecompressStringII.java" />
         <option value="$PROJECT_DIR$/src/com/myCodePractice/Class08/LongestSubstringWithoutRepeatingCharacters.java" />
+        <option value="$PROJECT_DIR$/src/com/myCodePractice/Class08/AllAnagrams.java" />
       </list>
     </option>
   </component>
@@ -134,9 +136,32 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.LongestSubstringWithoutRepeatingCharacters.test_Longest">
+  <component name="RunManager" selected="JUnit.AllAnagrams.test_anagrams">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="AllAnagrams.test_anagrams" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StringII" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myCodePractice.Class08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.myCodePractice.Class08" />
+      <option name="MAIN_CLASS_NAME" value="com.myCodePractice.Class08.AllAnagrams" />
+      <option name="METHOD_NAME" value="test_anagrams" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration name="AllPermutationsII.test_allPermutations" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="StringII" />
@@ -230,29 +255,6 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="ReorderArray.test_StringShuffling" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="StringII" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.myCodePractice.Class08.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.myCodePractice.Class08" />
-      <option name="MAIN_CLASS_NAME" value="com.myCodePractice.Class08.ReorderArray" />
-      <option name="METHOD_NAME" value="test_StringShuffling" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -292,19 +294,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.ReorderArray.test_StringShuffling" />
       <item itemvalue="JUnit.AllPermutationsII.test_allPermutations" />
       <item itemvalue="JUnit.DecompressStringII.test_decompressString" />
       <item itemvalue="JUnit.DecompressStringII" />
       <item itemvalue="JUnit.LongestSubstringWithoutRepeatingCharacters.test_Longest" />
+      <item itemvalue="JUnit.AllAnagrams.test_anagrams" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.AllAnagrams.test_anagrams" />
         <item itemvalue="JUnit.LongestSubstringWithoutRepeatingCharacters.test_Longest" />
         <item itemvalue="JUnit.DecompressStringII.test_decompressString" />
         <item itemvalue="JUnit.DecompressStringII" />
         <item itemvalue="JUnit.AllPermutationsII.test_allPermutations" />
-        <item itemvalue="JUnit.ReorderArray.test_StringShuffling" />
       </list>
     </recent_temporary>
   </component>
@@ -321,7 +323,7 @@
       <workItem from="1531447365022" duration="296000" />
       <workItem from="1531615976162" duration="7912000" />
       <workItem from="1531628056540" duration="4742000" />
-      <workItem from="1531635896234" duration="3191000" />
+      <workItem from="1531635896234" duration="5991000" />
     </task>
     <task id="LOCAL-00001" summary="init class 08">
       <created>1531447447478</created>
@@ -400,19 +402,17 @@
       <option name="project" value="LOCAL" />
       <updated>1531635709831</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="check in longest substring">
+      <created>1531698257862</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1531698257862</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DecompressStringII_test_decompressString - 2018.07.15 at 01h 47m 14s.xml">
-      <configuration name="DecompressStringII.test_decompressString" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DecompressStringII_test_decompressString - 2018.07.15 at 02h 06m 41s.xml">
-      <configuration name="DecompressStringII.test_decompressString" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DecompressStringII_test_decompressString - 2018.07.15 at 02h 14m 58s.xml">
-      <configuration name="DecompressStringII.test_decompressString" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="DecompressStringII_test_decompressString - 2018.07.15 at 02h 16m 23s.xml">
       <configuration name="DecompressStringII.test_decompressString" configurationId="JUnit" />
     </history-entry>
@@ -434,9 +434,18 @@
     <history-entry file="LongestSubstringWithoutRepeatingCharacters_test_Longest - 2018.07.15 at 19h 37m 19s.xml">
       <configuration name="LongestSubstringWithoutRepeatingCharacters.test_Longest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="AllAnagrams_test_anagrams - 2018.07.15 at 20h 23m 19s.xml">
+      <configuration name="AllAnagrams.test_anagrams" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AllAnagrams_test_anagrams - 2018.07.15 at 20h 23m 58s.xml">
+      <configuration name="AllAnagrams.test_anagrams" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AllAnagrams_test_anagrams - 2018.07.15 at 20h 24m 42s.xml">
+      <configuration name="AllAnagrams.test_anagrams" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16141000" />
+    <option name="totallyTimeSpent" value="18941000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -458,8 +467,8 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3263288" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.09147095" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3263288" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.09147095" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
@@ -496,7 +505,8 @@
     <MESSAGE value="check in string shuffling" />
     <MESSAGE value="check in all permutations II" />
     <MESSAGE value="check in decompress string" />
-    <option name="LAST_COMMIT_MESSAGE" value="check in decompress string" />
+    <MESSAGE value="check in longest substring" />
+    <option name="LAST_COMMIT_MESSAGE" value="check in longest substring" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class08/DecompressStringII.java">
@@ -513,6 +523,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
           <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -520,6 +533,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
           <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -543,7 +559,6 @@
         <state relative-caret-position="46">
           <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
           <folding>
-            <element signature="e#0#647#0" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
         </state>
@@ -576,15 +591,21 @@
     <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class08/StringShuffling.java" />
     <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class08/ReverseString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
+        <state relative-caret-position="-164">
           <caret line="37" column="43" lean-forward="true" selection-start-line="37" selection-start-column="43" selection-end-line="37" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class08/ReverseWordsInSentence.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
+        <state relative-caret-position="180">
           <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -592,12 +613,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="34" column="32" lean-forward="true" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class08/StringReplace.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
+        <state relative-caret-position="-2303">
           <caret line="20" column="47" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -607,8 +631,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class08/ReorderArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
+        <state relative-caret-position="-1015">
           <caret line="13" column="2" lean-forward="true" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class08/LongestSubstringWithoutRepeatingCharacters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-49">
+          <caret line="24" column="79" lean-forward="true" selection-start-line="24" selection-start-column="79" selection-end-line="24" selection-end-column="79" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1481#1482#0" expanded="true" />
+            <element signature="e#1538#1539#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class08/DecompressStringII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-417">
+          <caret line="84" column="45" lean-forward="true" selection-start-line="84" selection-start-column="45" selection-end-line="84" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -617,19 +663,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class08/AllPermutationsII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
+        <state relative-caret-position="295">
           <caret line="65" column="76" selection-start-line="65" selection-start-column="76" selection-end-line="65" selection-end-column="76" />
-          <folding>
-            <element signature="e#0#647#0" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class08/DecompressStringII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-227">
-          <caret line="84" column="45" lean-forward="true" selection-start-line="84" selection-start-column="45" selection-end-line="84" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -638,19 +673,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class08/AllAnagrams.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class08/LongestSubstringWithoutRepeatingCharacters.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="27" column="62" lean-forward="true" selection-start-line="27" selection-start-column="62" selection-end-line="27" selection-end-column="62" />
+        <state relative-caret-position="256">
+          <caret line="85" column="38" lean-forward="true" selection-start-line="85" selection-start-column="38" selection-end-line="85" selection-end-column="38" />
           <folding>
+            <element signature="e#0#612#0" expanded="true" />
             <element signature="imports" expanded="true" />
-            <element signature="e#1481#1482#0" expanded="true" />
-            <element signature="e#1538#1539#0" expanded="true" />
           </folding>
         </state>
       </provider>
