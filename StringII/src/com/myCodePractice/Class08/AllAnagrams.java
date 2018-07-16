@@ -40,50 +40,50 @@ public class AllAnagrams {
         // what we only need to change is
         // 1. remove the leftmost character at the previous sliding window
         // 2. add the rightmost character at the current sliding window
-        for (int i = 0; i<l.length();i++){
+        for (int i = 0; i < l.length(); i++) {
             // handle the new added character(rightmost) at the current sliding window
             char temp = l.charAt(i);
             Integer count = map.get(temp);
-            if (count != null){
+            if (count != null) {
                 // the number of needed count should be --
                 // and only when the count is from 1 to 0, we find an additional
                 // match of distinct char
-                map.put(temp, count-1);
-                if (count == 1){
+                map.put(temp, count - 1);
+                if (count == 1) {
                     match++;
                 }
             }
             // handle the leftmost char at the previous sliding window
-            if (i >= s.length()){
-                temp = l.charAt(i-s.length());
+            if (i >= s.length()) {
+                temp = l.charAt(i - s.length());
                 count = map.get(temp);
-                if (count != null){
+                if (count != null) {
                     // the number of needed count should be ++
                     // and only when the count is from 0 to 1, we are short for one
                     // match of distinct char
-                    map.put(temp,count+1);
-                    if (count == 0){
+                    map.put(temp, count + 1);
+                    if (count == 0) {
                         match--;
                     }
                 }
             }
             // for the current sliding window, if all the distinct cars are matched
             // the count are all zero
-            if (match == map.size()){
-                result.add(i-s.length() + 1);
+            if (match == map.size()) {
+                result.add(i - s.length() + 1);
             }
         }
         return result;
     }
 
-    private Map<Character,Integer> countMap(String s) {
+    private Map<Character, Integer> countMap(String s) {
         Map<Character, Integer> map = new HashMap<>();
-        for (char ch : s.toCharArray()){
+        for (char ch : s.toCharArray()) {
             Integer count = map.get(ch);
-            if (count == null){
-                map.put(ch,1);
-            }else{
-                map.put(ch, count +1);
+            if (count == null) {
+                map.put(ch, 1);
+            } else {
+                map.put(ch, count + 1);
             }
         }
         return map;
@@ -93,5 +93,7 @@ public class AllAnagrams {
     @Test
     public void test_anagrams() {
         Assert.assertEquals(new ArrayList<>(Arrays.asList(0, 3)), allAnagrams("ab", "abcbac"));
+        Assert.assertEquals(new ArrayList<>(Arrays.asList(0, 4)), allAnagrams("abb", "abbcabb"));
+        Assert.assertEquals(new ArrayList<>(Arrays.asList(0, 1, 2, 3)), allAnagrams("aa", "aaaaa"));
     }
 }
