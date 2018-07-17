@@ -2,25 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f43bc930-7946-4ce5-8517-b73c7b93dc8a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/myCodePractice/Class10/FindNodeWithTheMaxDiffInLeftRight.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RecursionII.iml" beforeDir="false" afterPath="$PROJECT_DIR$/RecursionII.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/myCodePractice/Class10/AbbreviationMatching.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/myCodePractice/Class10/AbbreviationMatching.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/myCodePractice/Class10/DescendentInItsLeftRightSubtree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/myCodePractice/Class10/FindTheNodeWithMaxDifference.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/myCodePractice/Class10/LowestCommonAncestorI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/myCodePractice/Class10/LowestCommonAncestorI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/myCodePractice/Class10/NQueens.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/myCodePractice/Class10/NQueens.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/myCodePractice/Class10/ReverseLinkedListInPairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/myCodePractice/Class10/ReverseLinkedListInPairs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/myCodePractice/Class10/SpiralOrderGenerateI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/myCodePractice/Class10/SpiralOrderGenerateI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/myCodePractice/Class10/SpiralOrderGenerateII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/myCodePractice/Class10/SpiralOrderTraverseI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/myCodePractice/Class10/SpiralOrderTraverseI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/myCodePractice/Class10/SpiralOrderTraverseII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/myCodePractice/Class10/SpiralOrderTraverseII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/myCodePractice/Class10/StoreNumberOfNodesInLeftSubtree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/myCodePractice/Class10/StoreNumberOfNodesInLeftSubtree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StringII/.idea/sonarlint/issuestore/8/9/899c8a8dbe2f7ac7a755702a0d726f82f4593343" beforeDir="false" afterPath="$PROJECT_DIR$/../StringII/.idea/sonarlint/issuestore/8/9/899c8a8dbe2f7ac7a755702a0d726f82f4593343" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StringII/.idea/sonarlint/issuestore/8/c/8ccfc375a45143114ae56924fa7fe981c67997e0" beforeDir="false" afterPath="$PROJECT_DIR$/../StringII/.idea/sonarlint/issuestore/8/c/8ccfc375a45143114ae56924fa7fe981c67997e0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StringII/.idea/sonarlint/issuestore/e/9/e99a6e0edd3a82a64bcedd6e33903e00253fb9a1" beforeDir="false" afterPath="$PROJECT_DIR$/../StringII/.idea/sonarlint/issuestore/e/9/e99a6e0edd3a82a64bcedd6e33903e00253fb9a1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StringII/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../StringII/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StringII/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../StringII/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,7 +19,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/StoreNumberOfNodesInLeftSubtree.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="364">
-              <caret line="16" column="5" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="16" selection-end-column="5" />
+              <caret line="16" column="5" selection-start-line="6" selection-start-column="4" selection-end-line="16" selection-end-column="5" />
               <folding>
                 <element signature="e#362#363#0" expanded="true" />
                 <element signature="e#400#401#0" expanded="true" />
@@ -47,14 +30,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FindNodeWithTheMaxDiffInLeftRight.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FindNodeWithTheMaxDiffInLeftRight.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/FindNodeWithTheMaxDiffInLeftRight.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="558">
-              <caret line="40" column="38" selection-start-line="40" selection-start-column="38" selection-end-line="40" selection-end-column="38" />
+            <state relative-caret-position="236">
+              <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
               <folding>
                 <element signature="e#413#414#0" expanded="true" />
                 <element signature="e#451#452#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NQueens.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/NQueens.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="205">
+              <caret line="51" column="27" lean-forward="true" selection-start-line="51" selection-start-column="27" selection-end-line="51" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1286#1301#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -76,7 +72,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/com/myCodePractice/Class10/LowestCommonAncestorI.java" />
-        <option value="$PROJECT_DIR$/src/com/myCodePractice/Class10/NQueens.java" />
         <option value="$PROJECT_DIR$/src/com/myCodePractice/Class10/ReverseLinkedListInPairs.java" />
         <option value="$PROJECT_DIR$/src/com/myCodePractice/Class10/SpiralOrderGenerateI.java" />
         <option value="$PROJECT_DIR$/src/com/myCodePractice/Class10/SpiralOrderTraverseII.java" />
@@ -84,6 +79,7 @@
         <option value="$PROJECT_DIR$/src/com/myCodePractice/Class10/AbbreviationMatching.java" />
         <option value="$PROJECT_DIR$/src/com/myCodePractice/Class10/StoreNumberOfNodesInLeftSubtree.java" />
         <option value="$PROJECT_DIR$/src/com/myCodePractice/Class10/FindNodeWithTheMaxDiffInLeftRight.java" />
+        <option value="$PROJECT_DIR$/src/com/myCodePractice/Class10/NQueens.java" />
       </list>
     </option>
   </component>
@@ -136,6 +132,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -156,6 +153,29 @@
   <component name="RunManager">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="NQueens.test_NQueens" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RecursionII" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myCodePractice.Class10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.myCodePractice.Class10" />
+      <option name="MAIN_CLASS_NAME" value="com.myCodePractice.Class10.NQueens" />
+      <option name="METHOD_NAME" value="test_NQueens" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -195,6 +215,11 @@
       <properties />
       <listeners />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.NQueens.test_NQueens" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -207,7 +232,7 @@
       <option name="presentableId" value="Default" />
       <updated>1531447682696</updated>
       <workItem from="1531447684163" duration="352000" />
-      <workItem from="1531777254992" duration="6749000" />
+      <workItem from="1531777254992" duration="10429000" />
     </task>
     <task id="LOCAL-00001" summary="init class 09 recursion II">
       <created>1531448014378</created>
@@ -216,27 +241,40 @@
       <option name="project" value="LOCAL" />
       <updated>1531448014378</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="check in class 10 recursion II with some practices">
+      <created>1531800559381</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1531800559381</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="NQueens_test_NQueens - 2018.07.17 at 01h 09m 34s.xml">
+      <configuration name="NQueens.test_NQueens" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7101000" />
+    <option name="totallyTimeSpent" value="10781000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="797" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="797" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" weight="0.32894737" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32894737" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
       <window_info anchor="bottom" id="SonarLint" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -261,7 +299,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="init class 09 recursion II" />
-    <option name="LAST_COMMIT_MESSAGE" value="init class 09 recursion II" />
+    <MESSAGE value="check in class 10 recursion II with some practices" />
+    <option name="LAST_COMMIT_MESSAGE" value="check in class 10 recursion II with some practices" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/SpiralOrderTraverseI.java">
@@ -357,16 +396,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/NQueens.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
-          <caret line="38" column="10" selection-start-line="38" selection-start-column="10" selection-end-line="38" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/SpiralOrderGenerateI.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
@@ -422,7 +451,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/StoreNumberOfNodesInLeftSubtree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="16" selection-end-column="5" />
+          <caret line="16" column="5" selection-start-line="6" selection-start-column="4" selection-end-line="16" selection-end-column="5" />
           <folding>
             <element signature="e#362#363#0" expanded="true" />
             <element signature="e#400#401#0" expanded="true" />
@@ -434,11 +463,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/FindNodeWithTheMaxDiffInLeftRight.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="40" column="38" selection-start-line="40" selection-start-column="38" selection-end-line="40" selection-end-column="38" />
+        <state relative-caret-position="236">
+          <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
           <folding>
             <element signature="e#413#414#0" expanded="true" />
             <element signature="e#451#452#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/NQueens.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="51" column="27" lean-forward="true" selection-start-line="51" selection-start-column="27" selection-end-line="51" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1286#1301#0" expanded="true" />
           </folding>
         </state>
       </provider>
