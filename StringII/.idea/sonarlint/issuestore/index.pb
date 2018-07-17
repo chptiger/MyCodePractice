@@ -7,3 +7,15 @@ e
 5src/com/myCodePractice/Class08/AllPermutationsII.java,f/0/f099bee85d2e5c8001f2c7b5e1a25ada1f14f102
 f
 6src/com/myCodePractice/Class08/DecompressStringII.java,8/c/8ccfc375a45143114ae56924fa7fe981c67997e0
+S
+#.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
+a
+1src/com/myCodePractice/Class08/ReverseString.java,e/f/ef974388a367bb1cabf22cc0cd6bb51e614ddc56
+j
+:src/com/myCodePractice/Class08/ReverseWordsInSentence.java,5/b/5bc11869168515b033628557ad92d1d384039757
+e
+5src/com/myCodePractice/Class08/RightShiftByNChar.java,2/5/258ba5eb529349eab53d79e8998328d05f79699a
+a
+1src/com/myCodePractice/Class08/StringReplace.java,3/b/3bc782c9dbf702bb89073f1cf69f61b0e8f73786
+~
+Nsrc/com/myCodePractice/Class08/LongestSubstringWithoutRepeatingCharacters.java,9/1/917e76adb492f71535cdf2fd17d75fce9be4bf34

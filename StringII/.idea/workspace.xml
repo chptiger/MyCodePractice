@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8aea640f-dfe9-4cec-9607-339403c5d869" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/myCodePractice/Class08/AllAnagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/myCodePractice/Class08/AllAnagrams.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,8 +17,8 @@
       <file leaf-file-name="AllAnagrams.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class08/AllAnagrams.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="85" column="38" lean-forward="true" selection-start-line="85" selection-start-column="38" selection-end-line="85" selection-end-column="38" />
+            <state relative-caret-position="283">
+              <caret line="46" column="12" selection-start-line="46" selection-start-column="12" selection-end-line="46" selection-end-column="12" />
               <folding>
                 <element signature="e#0#612#0" expanded="true" />
                 <element signature="imports" expanded="true" />
@@ -323,7 +322,7 @@
       <workItem from="1531447365022" duration="296000" />
       <workItem from="1531615976162" duration="7912000" />
       <workItem from="1531628056540" duration="4742000" />
-      <workItem from="1531635896234" duration="5991000" />
+      <workItem from="1531635896234" duration="9929000" />
     </task>
     <task id="LOCAL-00001" summary="init class 08">
       <created>1531447447478</created>
@@ -409,28 +408,24 @@
       <option name="project" value="LOCAL" />
       <updated>1531698257862</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="check in all anagrams">
+      <created>1531702334148</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1531702334148</updated>
+    </task>
+    <task id="LOCAL-00014" summary="check in all anagrams debug">
+      <created>1531717295756</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1531717295756</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DecompressStringII_test_decompressString - 2018.07.15 at 02h 16m 23s.xml">
-      <configuration name="DecompressStringII.test_decompressString" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DecompressStringII_test_decompressString - 2018.07.15 at 02h 18m 33s.xml">
-      <configuration name="DecompressStringII.test_decompressString" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DecompressStringII_test_decompressString - 2018.07.15 at 02h 18m 51s.xml">
-      <configuration name="DecompressStringII.test_decompressString" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LongestSubstringWithoutRepeatingCharacters_test_Longest - 2018.07.15 at 19h 36m 14s.xml">
-      <configuration name="LongestSubstringWithoutRepeatingCharacters.test_Longest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LongestSubstringWithoutRepeatingCharacters_test_Longest - 2018.07.15 at 19h 36m 47s.xml">
-      <configuration name="LongestSubstringWithoutRepeatingCharacters.test_Longest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LongestSubstringWithoutRepeatingCharacters_test_Longest - 2018.07.15 at 19h 37m 03s.xml">
-      <configuration name="LongestSubstringWithoutRepeatingCharacters.test_Longest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="LongestSubstringWithoutRepeatingCharacters_test_Longest - 2018.07.15 at 19h 37m 19s.xml">
       <configuration name="LongestSubstringWithoutRepeatingCharacters.test_Longest" configurationId="JUnit" />
     </history-entry>
@@ -443,9 +438,27 @@
     <history-entry file="AllAnagrams_test_anagrams - 2018.07.15 at 20h 24m 42s.xml">
       <configuration name="AllAnagrams.test_anagrams" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="AllAnagrams_test_anagrams - 2018.07.15 at 20h 54m 47s.xml">
+      <configuration name="AllAnagrams.test_anagrams" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AllAnagrams_test_anagrams - 2018.07.16 at 00h 34m 57s.xml">
+      <configuration name="AllAnagrams.test_anagrams" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AllAnagrams_test_anagrams - 2018.07.16 at 00h 40m 20s.xml">
+      <configuration name="AllAnagrams.test_anagrams" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AllAnagrams_test_anagrams - 2018.07.16 at 00h 41m 05s.xml">
+      <configuration name="AllAnagrams.test_anagrams" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AllAnagrams_test_anagrams - 2018.07.16 at 00h 46m 25s.xml">
+      <configuration name="AllAnagrams.test_anagrams" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AllAnagrams_test_anagrams - 2018.07.16 at 00h 53m 10s.xml">
+      <configuration name="AllAnagrams.test_anagrams" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18941000" />
+    <option name="totallyTimeSpent" value="22879000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -467,8 +480,8 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3263288" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.09147095" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35846725" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.13720642" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
@@ -506,7 +519,9 @@
     <MESSAGE value="check in all permutations II" />
     <MESSAGE value="check in decompress string" />
     <MESSAGE value="check in longest substring" />
-    <option name="LAST_COMMIT_MESSAGE" value="check in longest substring" />
+    <MESSAGE value="check in all anagrams" />
+    <MESSAGE value="check in all anagrams debug" />
+    <option name="LAST_COMMIT_MESSAGE" value="check in all anagrams debug" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class08/DecompressStringII.java">
@@ -673,8 +688,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class08/AllAnagrams.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="85" column="38" lean-forward="true" selection-start-line="85" selection-start-column="38" selection-end-line="85" selection-end-column="38" />
+        <state relative-caret-position="283">
+          <caret line="46" column="12" selection-start-line="46" selection-start-column="12" selection-end-line="46" selection-end-column="12" />
           <folding>
             <element signature="e#0#612#0" expanded="true" />
             <element signature="imports" expanded="true" />
