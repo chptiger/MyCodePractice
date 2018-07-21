@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f43bc930-7946-4ce5-8517-b73c7b93dc8a" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/myCodePractice/Class10/NQueens.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/myCodePractice/Class10/NQueens.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/myCodePractice/Class10/SpiralOrderTraverseI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/myCodePractice/Class10/SpiralOrderTraverseI.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,7 +18,7 @@
       <file leaf-file-name="StoreNumberOfNodesInLeftSubtree.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/StoreNumberOfNodesInLeftSubtree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
+            <state relative-caret-position="322">
               <caret line="16" column="5" selection-start-line="6" selection-start-column="4" selection-end-line="16" selection-end-column="5" />
               <folding>
                 <element signature="e#362#363#0" expanded="true" />
@@ -33,25 +33,55 @@
       <file leaf-file-name="FindNodeWithTheMaxDiffInLeftRight.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/FindNodeWithTheMaxDiffInLeftRight.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
+            <state relative-caret-position="552">
               <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NQueens.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/NQueens.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-7">
+              <caret line="55" column="9" lean-forward="true" selection-start-line="55" selection-start-column="9" selection-end-line="55" selection-end-column="9" />
               <folding>
-                <element signature="e#413#414#0" expanded="true" />
-                <element signature="e#451#452#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NQueens.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/NQueens.java">
+      <file leaf-file-name="LowestCommonAncestorI.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/LowestCommonAncestorI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="51" column="27" lean-forward="true" selection-start-line="51" selection-start-column="27" selection-end-line="51" selection-end-column="27" />
+            <state relative-caret-position="274">
+              <caret line="35" column="36" lean-forward="true" selection-start-line="35" selection-start-column="36" selection-end-line="35" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1286#1301#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SpiralOrderTraverseI.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/SpiralOrderTraverseI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="386">
+              <caret line="66" selection-start-line="66" selection-end-line="66" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1002#1003#0" expanded="true" />
+                <element signature="e#1029#1030#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReverseLinkedListInPairs.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/ReverseLinkedListInPairs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="496">
+              <caret line="33" column="20" lean-forward="true" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -75,11 +105,11 @@
         <option value="$PROJECT_DIR$/src/com/myCodePractice/Class10/ReverseLinkedListInPairs.java" />
         <option value="$PROJECT_DIR$/src/com/myCodePractice/Class10/SpiralOrderGenerateI.java" />
         <option value="$PROJECT_DIR$/src/com/myCodePractice/Class10/SpiralOrderTraverseII.java" />
-        <option value="$PROJECT_DIR$/src/com/myCodePractice/Class10/SpiralOrderTraverseI.java" />
         <option value="$PROJECT_DIR$/src/com/myCodePractice/Class10/AbbreviationMatching.java" />
         <option value="$PROJECT_DIR$/src/com/myCodePractice/Class10/StoreNumberOfNodesInLeftSubtree.java" />
         <option value="$PROJECT_DIR$/src/com/myCodePractice/Class10/FindNodeWithTheMaxDiffInLeftRight.java" />
         <option value="$PROJECT_DIR$/src/com/myCodePractice/Class10/NQueens.java" />
+        <option value="$PROJECT_DIR$/src/com/myCodePractice/Class10/SpiralOrderTraverseI.java" />
       </list>
     </option>
   </component>
@@ -92,7 +122,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="797" />
@@ -105,6 +135,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -128,7 +159,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -150,7 +180,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.SpiralOrderTraverseI.test_Spiral">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -167,6 +197,52 @@
       <option name="PACKAGE_NAME" value="com.myCodePractice.Class10" />
       <option name="MAIN_CLASS_NAME" value="com.myCodePractice.Class10.NQueens" />
       <option name="METHOD_NAME" value="test_NQueens" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="SpiralOrderTraverseI" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RecursionII" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myCodePractice.Class10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.myCodePractice.Class10" />
+      <option name="MAIN_CLASS_NAME" value="com.myCodePractice.Class10.SpiralOrderTraverseI" />
+      <option name="METHOD_NAME" value="test_Spiral" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="SpiralOrderTraverseI.test_Spiral" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RecursionII" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myCodePractice.Class10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.myCodePractice.Class10" />
+      <option name="MAIN_CLASS_NAME" value="com.myCodePractice.Class10.SpiralOrderTraverseI" />
+      <option name="METHOD_NAME" value="test_Spiral" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -215,8 +291,15 @@
       <properties />
       <listeners />
     </configuration>
+    <list>
+      <item itemvalue="JUnit.NQueens.test_NQueens" />
+      <item itemvalue="JUnit.SpiralOrderTraverseI.test_Spiral" />
+      <item itemvalue="JUnit.SpiralOrderTraverseI" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SpiralOrderTraverseI.test_Spiral" />
+        <item itemvalue="JUnit.SpiralOrderTraverseI" />
         <item itemvalue="JUnit.NQueens.test_NQueens" />
       </list>
     </recent_temporary>
@@ -232,7 +315,8 @@
       <option name="presentableId" value="Default" />
       <updated>1531447682696</updated>
       <workItem from="1531447684163" duration="352000" />
-      <workItem from="1531777254992" duration="10429000" />
+      <workItem from="1531777254992" duration="10470000" />
+      <workItem from="1532144631757" duration="2845000" />
     </task>
     <task id="LOCAL-00001" summary="init class 09 recursion II">
       <created>1531448014378</created>
@@ -248,34 +332,68 @@
       <option name="project" value="LOCAL" />
       <updated>1531800559381</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="check in class 10 nQueens method 1">
+      <created>1531806891726</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1531806891726</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="NQueens_test_NQueens - 2018.07.17 at 01h 09m 34s.xml">
-      <configuration name="NQueens.test_NQueens" configurationId="JUnit" />
+    <history-entry file="SpiralOrderTraverseI_test_Spiral - 2018.07.21 at 00h 13m 35s.xml">
+      <configuration name="SpiralOrderTraverseI.test_Spiral" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpiralOrderTraverseI_test_Spiral - 2018.07.21 at 00h 16m 58s.xml">
+      <configuration name="SpiralOrderTraverseI.test_Spiral" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpiralOrderTraverseI_test_Spiral - 2018.07.21 at 00h 22m 05s.xml">
+      <configuration name="SpiralOrderTraverseI.test_Spiral" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpiralOrderTraverseI - 2018.07.21 at 00h 24m 02s.xml">
+      <configuration name="SpiralOrderTraverseI" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpiralOrderTraverseI_test_Spiral - 2018.07.21 at 00h 25m 55s.xml">
+      <configuration name="SpiralOrderTraverseI.test_Spiral" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpiralOrderTraverseI_test_Spiral - 2018.07.21 at 00h 27m 49s.xml">
+      <configuration name="SpiralOrderTraverseI.test_Spiral" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpiralOrderTraverseI_test_Spiral - 2018.07.21 at 00h 28m 17s.xml">
+      <configuration name="SpiralOrderTraverseI.test_Spiral" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpiralOrderTraverseI_test_Spiral - 2018.07.21 at 00h 30m 17s.xml">
+      <configuration name="SpiralOrderTraverseI.test_Spiral" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpiralOrderTraverseI_test_Spiral - 2018.07.21 at 00h 30m 41s.xml">
+      <configuration name="SpiralOrderTraverseI.test_Spiral" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpiralOrderTraverseI_test_Spiral - 2018.07.21 at 00h 31m 35s.xml">
+      <configuration name="SpiralOrderTraverseI.test_Spiral" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10781000" />
+    <option name="totallyTimeSpent" value="13667000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="797" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" weight="0.32894737" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32894737" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32894737" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32880098" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
-      <window_info anchor="bottom" id="SonarLint" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
+      <window_info anchor="bottom" id="SonarLint" order="7" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -300,9 +418,40 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="init class 09 recursion II" />
     <MESSAGE value="check in class 10 recursion II with some practices" />
-    <option name="LAST_COMMIT_MESSAGE" value="check in class 10 recursion II with some practices" />
+    <MESSAGE value="check in class 10 nQueens method 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="check in class 10 nQueens method 1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/StoreNumberOfNodesInLeftSubtree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="16" column="5" selection-start-line="6" selection-start-column="4" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="e#362#363#0" expanded="true" />
+            <element signature="e#400#401#0" expanded="true" />
+            <element signature="e#453#454#0" expanded="true" />
+            <element signature="e#483#484#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/FindNodeWithTheMaxDiffInLeftRight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/NQueens.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1058">
+          <caret line="51" column="27" lean-forward="true" selection-start-line="51" selection-start-column="27" selection-end-line="51" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/SpiralOrderTraverseI.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
@@ -324,13 +473,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/SpiralOrderGenerateII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/SpiralOrderGenerateII.java" />
     <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/ReverseLinkedListInPairs.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
@@ -358,20 +501,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/FindTheNodeWithMaxDifference.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/DescendentInItsLeftRightSubtree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/FindTheNodeWithMaxDifference.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/DescendentInItsLeftRightSubtree.java" />
     <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/LowestCommonAncestorI.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
@@ -382,31 +513,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/SpiralOrderGenerateII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/FindTheNodeWithMaxDifference.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/SpiralOrderGenerateII.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/FindTheNodeWithMaxDifference.java" />
     <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/SpiralOrderGenerateI.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
           <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/SpiralOrderTraverseI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -417,23 +529,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/DescendentInItsLeftRightSubtree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/LowestCommonAncestorI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/DescendentInItsLeftRightSubtree.java" />
     <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/AbbreviationMatching.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
@@ -441,16 +537,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/ReverseLinkedListInPairs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="33" column="20" lean-forward="true" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/StoreNumberOfNodesInLeftSubtree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
+        <state relative-caret-position="322">
           <caret line="16" column="5" selection-start-line="6" selection-start-column="4" selection-end-line="16" selection-end-column="5" />
           <folding>
             <element signature="e#362#363#0" expanded="true" />
@@ -463,22 +552,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/FindNodeWithTheMaxDiffInLeftRight.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
+        <state relative-caret-position="552">
           <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
-          <folding>
-            <element signature="e#413#414#0" expanded="true" />
-            <element signature="e#451#452#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/ReverseLinkedListInPairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="33" column="20" lean-forward="true" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/NQueens.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="51" column="27" lean-forward="true" selection-start-line="51" selection-start-column="27" selection-end-line="51" selection-end-column="27" />
+        <state relative-caret-position="-7">
+          <caret line="55" column="9" lean-forward="true" selection-start-line="55" selection-start-column="9" selection-end-line="55" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1286#1301#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/LowestCommonAncestorI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="35" column="36" lean-forward="true" selection-start-line="35" selection-start-column="36" selection-end-line="35" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/SpiralOrderTraverseI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1002#1003#0" expanded="true" />
+            <element signature="e#1029#1030#0" expanded="true" />
           </folding>
         </state>
       </provider>

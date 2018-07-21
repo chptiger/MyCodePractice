@@ -1,0 +1,5 @@
+
+Nsquid:S1172"-Remove this unused method parameter "matrix".(èÍÊŠúÿÿÿÿ8Æ³Ô¯Ê,
+|squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿç¼ıÿÿÿÿ8”ŞÏ¯Ê,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(×¦®×8›†Ñ¯Ê,
+Gsquid:S1168"+Return an empty collection instead of null.(¥¹ï8Æ³Ô¯Ê,
