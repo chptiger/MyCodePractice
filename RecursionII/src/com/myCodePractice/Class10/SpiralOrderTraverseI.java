@@ -57,14 +57,44 @@ public class SpiralOrderTraverseI {
     }
 
     // method 2, iterative
-    public List<Integer> spiral2(int[] matrix) {
-        return null;
+    public List<Integer> spiral2(int[][] matrix) {
+        List<Integer> result = new ArrayList<>();
+        int n = matrix.length;
+        int start = 0;
+        int end = n - 1;
+        while (start < end) {
+            // print top row
+            for (int i = start; i <= end; i++) {
+                result.add(matrix[start][i]);
+            }
+            // print right column
+            for (int i = start + 1; i <= end; i++) {
+                result.add(matrix[i][end]);
+            }
+            // print bottom row
+            for (int i = end - 1; i >= start; i--) {
+                result.add(matrix[end][i]);
+            }
+            // print left column
+            for (int i = end - 1; i >= start + 1; i--) {
+                result.add(matrix[i][start]);
+            }
+            start++;
+            end--;
+        }
+        // if it left 1 element, add it to list
+        if (start == end) {
+            result.add(matrix[start][end]);
+        }
+        return result;
     }
 
     @Test
     public void test_Spiral() {
         Assert.assertEquals(new ArrayList<>(Arrays.asList(1, 2, 3, 4, 5, 6, 7, 8, 9)), spiral(new int[][]{{1, 2, 3}, {8, 9, 4}, {7, 6, 5}}));
+        Assert.assertEquals(new ArrayList<>(Arrays.asList(1, 2, 3, 4, 5, 6, 7, 8, 9)), spiral2(new int[][]{{1, 2, 3}, {8, 9, 4}, {7, 6, 5}}));
         Assert.assertEquals(new ArrayList<>(Arrays.asList(1, 2, 9, 8)), spiral(new int[][]{{1, 2}, {8, 9}}));
+        Assert.assertEquals(new ArrayList<>(Arrays.asList(1, 2, 9, 8)), spiral2(new int[][]{{1, 2}, {8, 9}}));
     }
 
 }
