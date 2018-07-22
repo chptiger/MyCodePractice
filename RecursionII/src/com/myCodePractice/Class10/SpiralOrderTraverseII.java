@@ -61,11 +61,6 @@ public class SpiralOrderTraverseII {
         if (left > right || top > bottom) {
             return result;
         }
-        // if M = N, supposed to have 1 element left
-        if (left == right && top == bottom){
-            result.add(matrix[top][left]);
-            return result;
-        }
         // 2. there is 1 column left
         if (left == right ) {
             for (int i = top; i <= bottom; i++) {
@@ -73,7 +68,7 @@ public class SpiralOrderTraverseII {
             }
         }
         // 3. there is 1 row left
-        if (top == bottom )  {
+        else {
             for (int i = left; i <= right; i++) {
                 result.add(matrix[top][i]);
             }

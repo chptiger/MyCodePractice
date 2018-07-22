@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f43bc930-7946-4ce5-8517-b73c7b93dc8a" name="Default" comment="check in class 10 spiral order print method 2 iteratively">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/d/2dbe0007b33ac69f7bbffc43d3ffd0a0ac2a890d" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/d/2dbe0007b33ac69f7bbffc43d3ffd0a0ac2a890d" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/7/4771ecc627e12d7ce288ea2267ed468e5cf1ad2e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/7/4771ecc627e12d7ce288ea2267ed468e5cf1ad2e" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/f/5f5e98fd147f2694fed296a8c646c5a1bcdfd306" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/f/5f5e98fd147f2694fed296a8c646c5a1bcdfd306" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/6/66c08db49094ada1f6dbf83cc7bd9da313bb6103" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/6/66c08db49094ada1f6dbf83cc7bd9da313bb6103" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+    <list default="true" id="f43bc930-7946-4ce5-8517-b73c7b93dc8a" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/myCodePractice/Class10/SpiralOrderGenerateII.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/myCodePractice/Class10/SpiralOrderGenerateI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/myCodePractice/Class10/SpiralOrderGenerateI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/myCodePractice/Class10/SpiralOrderTraverseII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/myCodePractice/Class10/SpiralOrderTraverseII.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -20,20 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SpiralOrderGenerateI.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/SpiralOrderGenerateI.java">
+      <file leaf-file-name="SpiralOrderGenerateII.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/SpiralOrderGenerateII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SpiralOrderTraverseII.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/SpiralOrderTraverseII.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="66" column="26" selection-start-line="66" selection-start-column="26" selection-end-line="66" selection-end-column="26" />
+            <state relative-caret-position="859">
+              <caret line="78" column="8" lean-forward="true" selection-start-line="78" selection-start-column="8" selection-end-line="78" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -41,11 +29,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SpiralOrderTraverseI.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/SpiralOrderTraverseI.java">
+      <file leaf-file-name="SpiralOrderTraverseII.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/SpiralOrderTraverseII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="536">
-              <caret line="96" column="110" lean-forward="true" selection-start-line="93" selection-start-column="8" selection-end-line="96" selection-end-column="110" />
+            <state relative-caret-position="98">
+              <caret line="62" column="9" selection-start-line="62" selection-start-column="9" selection-end-line="62" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SpiralOrderGenerateI.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/SpiralOrderGenerateI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="507">
+              <caret line="56" column="5" lean-forward="true" selection-start-line="47" selection-start-column="4" selection-end-line="56" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -70,12 +67,13 @@
       <list>
         <option value="$PROJECT_DIR$/src/com/myCodePractice/Class10/LowestCommonAncestorI.java" />
         <option value="$PROJECT_DIR$/src/com/myCodePractice/Class10/ReverseLinkedListInPairs.java" />
-        <option value="$PROJECT_DIR$/src/com/myCodePractice/Class10/SpiralOrderGenerateI.java" />
         <option value="$PROJECT_DIR$/src/com/myCodePractice/Class10/AbbreviationMatching.java" />
         <option value="$PROJECT_DIR$/src/com/myCodePractice/Class10/StoreNumberOfNodesInLeftSubtree.java" />
         <option value="$PROJECT_DIR$/src/com/myCodePractice/Class10/FindNodeWithTheMaxDiffInLeftRight.java" />
         <option value="$PROJECT_DIR$/src/com/myCodePractice/Class10/NQueens.java" />
         <option value="$PROJECT_DIR$/src/com/myCodePractice/Class10/SpiralOrderTraverseI.java" />
+        <option value="$PROJECT_DIR$/src/com/myCodePractice/Class10/SpiralOrderGenerateI.java" />
+        <option value="$PROJECT_DIR$/src/com/myCodePractice/Class10/SpiralOrderGenerateII.java" />
         <option value="$PROJECT_DIR$/src/com/myCodePractice/Class10/SpiralOrderTraverseII.java" />
       </list>
     </option>
@@ -150,7 +148,7 @@
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="NQueens.test_NQueens" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SpiralOrderGenerateII.test_spiralGenerate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="RecursionII" />
       <extension name="coverage">
         <pattern>
@@ -161,8 +159,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.myCodePractice.Class10" />
-      <option name="MAIN_CLASS_NAME" value="com.myCodePractice.Class10.NQueens" />
-      <option name="METHOD_NAME" value="test_NQueens" />
+      <option name="MAIN_CLASS_NAME" value="com.myCodePractice.Class10.SpiralOrderGenerateII" />
+      <option name="METHOD_NAME" value="test_spiralGenerate" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -173,7 +171,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="SpiralOrderTraverseI" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SpiralOrderGenerateI.test_spiralGenerate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="RecursionII" />
       <extension name="coverage">
         <pattern>
@@ -184,9 +182,9 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.myCodePractice.Class10" />
-      <option name="MAIN_CLASS_NAME" value="com.myCodePractice.Class10.SpiralOrderTraverseI" />
-      <option name="METHOD_NAME" value="test_Spiral" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="MAIN_CLASS_NAME" value="com.myCodePractice.Class10.SpiralOrderGenerateI" />
+      <option name="METHOD_NAME" value="test_spiralGenerate" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -304,19 +302,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.NQueens.test_NQueens" />
       <item itemvalue="JUnit.SpiralOrderTraverseI.test_Spiral" />
-      <item itemvalue="JUnit.SpiralOrderTraverseI" />
       <item itemvalue="JUnit.SpiralOrderTraverseII.test_spiralII" />
       <item itemvalue="JUnit.SpiralOrderTraverseII" />
+      <item itemvalue="JUnit.SpiralOrderGenerateI.test_spiralGenerate" />
+      <item itemvalue="JUnit.SpiralOrderGenerateII.test_spiralGenerate" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.SpiralOrderTraverseII.test_spiralII" />
+        <item itemvalue="JUnit.SpiralOrderGenerateII.test_spiralGenerate" />
+        <item itemvalue="JUnit.SpiralOrderGenerateI.test_spiralGenerate" />
         <item itemvalue="JUnit.SpiralOrderTraverseII" />
         <item itemvalue="JUnit.SpiralOrderTraverseI.test_Spiral" />
-        <item itemvalue="JUnit.SpiralOrderTraverseI" />
-        <item itemvalue="JUnit.NQueens.test_NQueens" />
       </list>
     </recent_temporary>
   </component>
@@ -333,7 +331,7 @@
       <workItem from="1531447684163" duration="352000" />
       <workItem from="1531777254992" duration="10470000" />
       <workItem from="1532144631757" duration="4409000" />
-      <workItem from="1532157929289" duration="2648000" />
+      <workItem from="1532157929289" duration="6607000" />
     </task>
     <task id="LOCAL-00001" summary="init class 09 recursion II">
       <created>1531448014378</created>
@@ -370,43 +368,50 @@
       <option name="project" value="LOCAL" />
       <updated>1532155583250</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="check in class 10 spiral order II">
+      <created>1532223447865</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1532223447865</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SpiralOrderTraverseI_test_Spiral - 2018.07.21 at 02h 44m 42s.xml">
-      <configuration name="SpiralOrderTraverseI.test_Spiral" configurationId="JUnit" />
+    <history-entry file="SpiralOrderGenerateI_test_spiralGenerate - 2018.07.21 at 22h 21m 01s.xml">
+      <configuration name="SpiralOrderGenerateI.test_spiralGenerate" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SpiralOrderTraverseI_test_Spiral - 2018.07.21 at 02h 45m 51s.xml">
-      <configuration name="SpiralOrderTraverseI.test_Spiral" configurationId="JUnit" />
+    <history-entry file="SpiralOrderGenerateI_test_spiralGenerate - 2018.07.21 at 22h 27m 07s.xml">
+      <configuration name="SpiralOrderGenerateI.test_spiralGenerate" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SpiralOrderTraverseII_test_spiralII - 2018.07.21 at 21h 27m 30s.xml">
-      <configuration name="SpiralOrderTraverseII.test_spiralII" configurationId="JUnit" />
+    <history-entry file="SpiralOrderGenerateI_test_spiralGenerate - 2018.07.21 at 22h 27m 48s.xml">
+      <configuration name="SpiralOrderGenerateI.test_spiralGenerate" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SpiralOrderTraverseII_test_spiralII - 2018.07.21 at 21h 29m 23s.xml">
-      <configuration name="SpiralOrderTraverseII.test_spiralII" configurationId="JUnit" />
+    <history-entry file="SpiralOrderGenerateII_test_spiralGenerate - 2018.07.21 at 22h 39m 32s.xml">
+      <configuration name="SpiralOrderGenerateII.test_spiralGenerate" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SpiralOrderTraverseII_test_spiralII - 2018.07.21 at 21h 31m 55s.xml">
-      <configuration name="SpiralOrderTraverseII.test_spiralII" configurationId="JUnit" />
+    <history-entry file="SpiralOrderGenerateII_test_spiralGenerate - 2018.07.21 at 22h 39m 58s.xml">
+      <configuration name="SpiralOrderGenerateII.test_spiralGenerate" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SpiralOrderTraverseII_test_spiralII - 2018.07.21 at 21h 32m 20s.xml">
-      <configuration name="SpiralOrderTraverseII.test_spiralII" configurationId="JUnit" />
+    <history-entry file="SpiralOrderGenerateII_test_spiralGenerate - 2018.07.21 at 22h 40m 32s.xml">
+      <configuration name="SpiralOrderGenerateII.test_spiralGenerate" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SpiralOrderTraverseII_test_spiralII - 2018.07.21 at 21h 34m 22s.xml">
-      <configuration name="SpiralOrderTraverseII.test_spiralII" configurationId="JUnit" />
+    <history-entry file="SpiralOrderGenerateII_test_spiralGenerate - 2018.07.21 at 22h 41m 50s.xml">
+      <configuration name="SpiralOrderGenerateII.test_spiralGenerate" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SpiralOrderTraverseII_test_spiralII - 2018.07.21 at 21h 34m 52s.xml">
-      <configuration name="SpiralOrderTraverseII.test_spiralII" configurationId="JUnit" />
+    <history-entry file="SpiralOrderGenerateII_test_spiralGenerate - 2018.07.21 at 22h 42m 39s.xml">
+      <configuration name="SpiralOrderGenerateII.test_spiralGenerate" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SpiralOrderTraverseII - 2018.07.21 at 21h 35m 10s.xml">
-      <configuration name="SpiralOrderTraverseII" configurationId="JUnit" />
+    <history-entry file="SpiralOrderGenerateII_test_spiralGenerate - 2018.07.21 at 22h 42m 45s.xml">
+      <configuration name="SpiralOrderGenerateII.test_spiralGenerate" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SpiralOrderTraverseII_test_spiralII - 2018.07.21 at 21h 36m 49s.xml">
+    <history-entry file="SpiralOrderTraverseII_test_spiralII - 2018.07.21 at 22h 43m 15s.xml">
       <configuration name="SpiralOrderTraverseII.test_spiralII" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17879000" />
+    <option name="totallyTimeSpent" value="21838000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -420,13 +425,13 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32880098" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2249691" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6586922" visible="true" weight="0.26037195" />
       <window_info anchor="bottom" id="SonarLint" order="7" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Structure" order="1" sideWeight="0.34130782" side_tool="true" visible="true" weight="0.26037195" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -452,7 +457,8 @@
     <MESSAGE value="check in class 10 nQueens method 1" />
     <MESSAGE value="check in class 10 spiral order print method 1" />
     <MESSAGE value="check in class 10 spiral order print method 2 iteratively" />
-    <option name="LAST_COMMIT_MESSAGE" value="check in class 10 spiral order print method 2 iteratively" />
+    <MESSAGE value="check in class 10 spiral order II" />
+    <option name="LAST_COMMIT_MESSAGE" value="check in class 10 spiral order II" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/StoreNumberOfNodesInLeftSubtree.java">
@@ -506,9 +512,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1978">
           <caret line="91" column="9" lean-forward="true" selection-start-line="91" selection-start-column="9" selection-end-line="91" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -603,7 +606,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/SpiralOrderGenerateII.java" />
     <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/FindTheNodeWithMaxDifference.java" />
     <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/DescendentInItsLeftRightSubtree.java" />
     <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/AbbreviationMatching.java">
@@ -660,17 +662,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/SpiralOrderGenerateI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/SpiralOrderTraverseI.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="536">
           <caret line="96" column="110" lean-forward="true" selection-start-line="93" selection-start-column="8" selection-end-line="96" selection-end-column="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/SpiralOrderGenerateI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="56" column="5" lean-forward="true" selection-start-line="47" selection-start-column="4" selection-end-line="56" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/SpiralOrderGenerateII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="859">
+          <caret line="78" column="8" lean-forward="true" selection-start-line="78" selection-start-column="8" selection-end-line="78" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -679,11 +691,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/SpiralOrderTraverseII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="66" column="26" selection-start-line="66" selection-start-column="26" selection-end-line="66" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="98">
+          <caret line="62" column="9" selection-start-line="62" selection-start-column="9" selection-end-line="62" selection-end-column="9" />
         </state>
       </provider>
     </entry>
