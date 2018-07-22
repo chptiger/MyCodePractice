@@ -19,3 +19,5 @@ s
 Csrc/com/myCodePractice/Class10/StoreNumberOfNodesInLeftSubtree.java,9/6/963f8812f8b958bf2746d2ebf5e38d7d318521db
 [
 +src/com/myCodePractice/Class10/NQueens.java,6/6/66c08db49094ada1f6dbf83cc7bd9da313bb6103
+S
+#.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
