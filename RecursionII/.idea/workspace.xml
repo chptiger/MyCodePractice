@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f43bc930-7946-4ce5-8517-b73c7b93dc8a" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/myCodePractice/Class10/AbbreviationMatching.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/myCodePractice/Class10/AbbreviationMatching.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/myCodePractice/Class10/LowestCommonAncestorI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/myCodePractice/Class10/LowestCommonAncestorI.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,11 +15,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="AbbreviationMatching.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/AbbreviationMatching.java">
+      <file leaf-file-name="FindNodeWithTheMaxDiffInLeftRight.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/FindNodeWithTheMaxDiffInLeftRight.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="401">
-              <caret line="81" column="57" selection-start-line="81" selection-start-column="57" selection-end-line="81" selection-end-column="57" />
+            <state relative-caret-position="-39">
+              <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LowestCommonAncestorI.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/LowestCommonAncestorI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="203">
+              <caret line="42" column="39" lean-forward="true" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -42,7 +51,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/myCodePractice/Class10/LowestCommonAncestorI.java" />
         <option value="$PROJECT_DIR$/src/com/myCodePractice/Class10/StoreNumberOfNodesInLeftSubtree.java" />
         <option value="$PROJECT_DIR$/src/com/myCodePractice/Class10/FindNodeWithTheMaxDiffInLeftRight.java" />
         <option value="$PROJECT_DIR$/src/com/myCodePractice/Class10/NQueens.java" />
@@ -52,6 +60,7 @@
         <option value="$PROJECT_DIR$/src/com/myCodePractice/Class10/SpiralOrderTraverseII.java" />
         <option value="$PROJECT_DIR$/src/com/myCodePractice/Class10/ReverseLinkedListInPairs.java" />
         <option value="$PROJECT_DIR$/src/com/myCodePractice/Class10/AbbreviationMatching.java" />
+        <option value="$PROJECT_DIR$/src/com/myCodePractice/Class10/LowestCommonAncestorI.java" />
       </list>
     </option>
   </component>
@@ -121,7 +130,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.AbbreviationMatching.test_AbbreviationMatching">
+  <component name="RunManager" selected="JUnit.LowestCommonAncestorI.test_LCA">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -138,6 +147,29 @@
       <option name="PACKAGE_NAME" value="com.myCodePractice.Class10" />
       <option name="MAIN_CLASS_NAME" value="com.myCodePractice.Class10.AbbreviationMatching" />
       <option name="METHOD_NAME" value="test_AbbreviationMatching" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="LowestCommonAncestorI.test_LCA" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RecursionII" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myCodePractice.Class10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.myCodePractice.Class10" />
+      <option name="MAIN_CLASS_NAME" value="com.myCodePractice.Class10.LowestCommonAncestorI" />
+      <option name="METHOD_NAME" value="test_LCA" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -184,29 +216,6 @@
       <option name="PACKAGE_NAME" value="com.myCodePractice.Class10" />
       <option name="MAIN_CLASS_NAME" value="com.myCodePractice.Class10.ReverseLinkedListInPairs" />
       <option name="METHOD_NAME" value="test_ReverseLinkedList" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="SpiralOrderGenerateII.test_spiralGenerate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="RecursionII" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.myCodePractice.Class10.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.myCodePractice.Class10" />
-      <option name="MAIN_CLASS_NAME" value="com.myCodePractice.Class10.SpiralOrderGenerateII" />
-      <option name="METHOD_NAME" value="test_spiralGenerate" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -280,18 +289,18 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.SpiralOrderTraverseII.test_spiralII" />
-      <item itemvalue="JUnit.SpiralOrderGenerateII.test_spiralGenerate" />
       <item itemvalue="JUnit.ReverseLinkedListInPairs.test_ReverseLinkedList" />
       <item itemvalue="JUnit.ReverseLinkedListInPairs" />
       <item itemvalue="JUnit.AbbreviationMatching.test_AbbreviationMatching" />
+      <item itemvalue="JUnit.LowestCommonAncestorI.test_LCA" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LowestCommonAncestorI.test_LCA" />
         <item itemvalue="JUnit.AbbreviationMatching.test_AbbreviationMatching" />
         <item itemvalue="JUnit.ReverseLinkedListInPairs.test_ReverseLinkedList" />
         <item itemvalue="JUnit.ReverseLinkedListInPairs" />
         <item itemvalue="JUnit.SpiralOrderTraverseII.test_spiralII" />
-        <item itemvalue="JUnit.SpiralOrderGenerateII.test_spiralGenerate" />
       </list>
     </recent_temporary>
   </component>
@@ -308,7 +317,7 @@
       <workItem from="1531447684163" duration="352000" />
       <workItem from="1531777254992" duration="10470000" />
       <workItem from="1532144631757" duration="4409000" />
-      <workItem from="1532157929289" duration="12600000" />
+      <workItem from="1532157929289" duration="13457000" />
     </task>
     <task id="LOCAL-00001" summary="init class 09 recursion II">
       <created>1531448014378</created>
@@ -373,13 +382,17 @@
       <option name="project" value="LOCAL" />
       <updated>1532236409106</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="check in class 10 abbreviation matching comment">
+      <created>1532236621858</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1532236621858</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ReverseLinkedListInPairs_test_ReverseLinkedList - 2018.07.21 at 23h 51m 42s.xml">
-      <configuration name="ReverseLinkedListInPairs.test_ReverseLinkedList" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ReverseLinkedListInPairs_test_ReverseLinkedList - 2018.07.21 at 23h 52m 31s.xml">
       <configuration name="ReverseLinkedListInPairs.test_ReverseLinkedList" configurationId="JUnit" />
     </history-entry>
@@ -407,9 +420,12 @@
     <history-entry file="AbbreviationMatching_test_AbbreviationMatching - 2018.07.22 at 01h 07m 12s.xml">
       <configuration name="AbbreviationMatching.test_AbbreviationMatching" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="LowestCommonAncestorI_test_LCA - 2018.07.22 at 01h 25m 47s.xml">
+      <configuration name="LowestCommonAncestorI.test_LCA" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27831000" />
+    <option name="totallyTimeSpent" value="28688000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -459,7 +475,8 @@
     <MESSAGE value="check in class 10 spiral order generate I II" />
     <MESSAGE value="check in class 10 reverse linked list in pairs" />
     <MESSAGE value="check in class 10 abbreviation matching" />
-    <option name="LAST_COMMIT_MESSAGE" value="check in class 10 abbreviation matching" />
+    <MESSAGE value="check in class 10 abbreviation matching comment" />
+    <option name="LAST_COMMIT_MESSAGE" value="check in class 10 abbreviation matching comment" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -599,34 +616,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/FindTheNodeWithMaxDifference.java" />
     <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/DescendentInItsLeftRightSubtree.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/StoreNumberOfNodesInLeftSubtree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="16" column="5" selection-start-line="6" selection-start-column="4" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/FindNodeWithTheMaxDiffInLeftRight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/NQueens.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1150">
           <caret line="55" column="9" selection-start-line="55" selection-start-column="9" selection-end-line="55" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/LowestCommonAncestorI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="736">
-          <caret line="35" column="36" selection-start-line="35" selection-start-column="36" selection-end-line="35" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -686,8 +679,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/AbbreviationMatching.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="81" column="57" selection-start-line="81" selection-start-column="57" selection-end-line="81" selection-end-column="57" />
+        <state relative-caret-position="240">
+          <caret line="74" column="9" lean-forward="true" selection-start-line="74" selection-start-column="9" selection-end-line="74" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/StoreNumberOfNodesInLeftSubtree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/FindNodeWithTheMaxDiffInLeftRight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-39">
+          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/LowestCommonAncestorI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="42" column="39" lean-forward="true" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
