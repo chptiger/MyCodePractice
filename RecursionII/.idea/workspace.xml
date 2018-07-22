@@ -18,8 +18,8 @@
       <file leaf-file-name="AbbreviationMatching.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/AbbreviationMatching.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="63" column="29" selection-start-line="63" selection-start-column="29" selection-end-line="63" selection-end-column="29" />
+            <state relative-caret-position="401">
+              <caret line="81" column="57" selection-start-line="81" selection-start-column="57" selection-end-line="81" selection-end-column="57" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -308,7 +308,7 @@
       <workItem from="1531447684163" duration="352000" />
       <workItem from="1531777254992" duration="10470000" />
       <workItem from="1532144631757" duration="4409000" />
-      <workItem from="1532157929289" duration="12374000" />
+      <workItem from="1532157929289" duration="12600000" />
     </task>
     <task id="LOCAL-00001" summary="init class 09 recursion II">
       <created>1531448014378</created>
@@ -366,7 +366,14 @@
       <option name="project" value="LOCAL" />
       <updated>1532231696178</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="check in class 10 abbreviation matching">
+      <created>1532236409106</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1532236409106</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -402,7 +409,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27605000" />
+    <option name="totallyTimeSpent" value="27831000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -451,7 +458,8 @@
     <MESSAGE value="check in class 10 spiral order II" />
     <MESSAGE value="check in class 10 spiral order generate I II" />
     <MESSAGE value="check in class 10 reverse linked list in pairs" />
-    <option name="LAST_COMMIT_MESSAGE" value="check in class 10 reverse linked list in pairs" />
+    <MESSAGE value="check in class 10 abbreviation matching" />
+    <option name="LAST_COMMIT_MESSAGE" value="check in class 10 abbreviation matching" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -678,8 +686,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/AbbreviationMatching.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="63" column="29" selection-start-line="63" selection-start-column="29" selection-end-line="63" selection-end-column="29" />
+        <state relative-caret-position="401">
+          <caret line="81" column="57" selection-start-line="81" selection-start-column="57" selection-end-line="81" selection-end-column="57" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

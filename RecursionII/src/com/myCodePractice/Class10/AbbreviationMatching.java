@@ -79,6 +79,7 @@ public class AbbreviationMatching {
         Assert.assertEquals(true, match("student", "s6"));
         Assert.assertEquals(true, match2("student", "s6"));
 
+        // in this case, pattern will get StringIndexOutOfBoundsException
         //Assert.assertEquals(false, match("student","s1"));
         //Assert.assertEquals(false, match2("student","s1"));
     }
