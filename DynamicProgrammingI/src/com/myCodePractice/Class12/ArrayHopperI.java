@@ -1,7 +1,13 @@
 package com.myCodePractice.Class12;
+
+import org.junit.Assert;
+import org.junit.Test;
+
 /*
 Description
-Given an array A of non-negative integers, you are initially positioned at index 0 of the array. A[i] means the maximum jump distance from that position (you can only jump towards the end of the array). Determine if you are able to reach the last index.
+Given an array A of non-negative integers, you are initially positioned at index 0 of the array.
+A[i] means the maximum jump distance from that position (you can only jump towards the end of the array).
+Determine if you are able to reach the last index.
 
 Assumptions
 
@@ -15,5 +21,13 @@ Examples
 public class ArrayHopperI {
   public boolean canJump(int[] array) {
     // Write your solution here
+    return true;
+  }
+
+  @Test
+  public void testArrayHopper(){
+    Assert.assertEquals(true, canJump(new int[]{1,3,2,0,3}));
+    Assert.assertEquals(false, canJump(new int[]{2,1,1,0,3}));
+    Assert.assertEquals(false, canJump(new int[]{0}));
   }
 }

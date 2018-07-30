@@ -13,5 +13,6 @@ n = 12, the max product is 3 3 3 3 = 81(cut the rope into 4 pieces with length o
 public class MaxProductOfCuttingRope {
   public int maxProduct(int length) {
     // Write your solution here
+    return 0;
   }
 }

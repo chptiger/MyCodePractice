@@ -15,5 +15,6 @@ Examples
 public class LongestAscendingSubarray {
   public int longest(int[] array) {
     // Write your solution here
+    return 0;
   }
 }
