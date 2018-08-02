@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71b5d5bb-69dc-410d-a95d-cf53e94c47a9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/myCodePractice/Class12/CuttingRope.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DynamicProgrammingI.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicProgrammingI.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/myCodePractice/Class12/ArrayHopperI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/myCodePractice/Class12/ArrayHopperI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/myCodePractice/Class12/CuttingRope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/myCodePractice/Class12/CuttingRope.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/myCodePractice/Class12/LongestAscendingSubarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/myCodePractice/Class12/LongestAscendingSubarray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/myCodePractice/Class12/MaxProductOfCuttingRope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/myCodePractice/Class12/MaxProductOfCuttingRope.java" afterDir="false" />
     </list>
@@ -19,42 +17,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="LongestAscendingSubarray.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class12/LongestAscendingSubarray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ArrayHopperI.java" pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ArrayHopperI.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class12/ArrayHopperI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="159">
-              <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MaxProductOfCuttingRope.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class12/MaxProductOfCuttingRope.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CuttingRope.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class12/CuttingRope.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="181">
-              <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+            <state relative-caret-position="304">
+              <caret line="79" column="33" selection-start-line="79" selection-start-column="33" selection-end-line="79" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -77,10 +45,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/myCodePractice/Class12/ArrayHopperI.java" />
-        <option value="$PROJECT_DIR$/src/com/myCodePractice/Class12/MaxProductOfCuttingRope.java" />
         <option value="$PROJECT_DIR$/src/com/myCodePractice/Class12/LongestAscendingSubarray.java" />
+        <option value="$PROJECT_DIR$/src/com/myCodePractice/Class12/MaxProductOfCuttingRope.java" />
         <option value="$PROJECT_DIR$/src/com/myCodePractice/Class12/CuttingRope.java" />
+        <option value="$PROJECT_DIR$/src/com/myCodePractice/Class12/ArrayHopperI.java" />
       </list>
     </option>
   </component>
@@ -106,8 +74,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -130,9 +96,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -151,9 +120,32 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.ArrayHopperI.testArrayHopper">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="ArrayHopperI.testArrayHopper" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DynamicProgrammingI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myCodePractice.Class12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.myCodePractice.Class12" />
+      <option name="MAIN_CLASS_NAME" value="com.myCodePractice.Class12.ArrayHopperI" />
+      <option name="METHOD_NAME" value="testArrayHopper" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration name="CuttingRope.testCuttingRope" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="DynamicProgrammingI" />
@@ -168,6 +160,75 @@
       <option name="PACKAGE_NAME" value="com.myCodePractice.Class12" />
       <option name="MAIN_CLASS_NAME" value="com.myCodePractice.Class12.CuttingRope" />
       <option name="METHOD_NAME" value="testCuttingRope" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="LongestAscendingSubarray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DynamicProgrammingI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myCodePractice.Class12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.myCodePractice.Class12" />
+      <option name="MAIN_CLASS_NAME" value="com.myCodePractice.Class12.LongestAscendingSubarray" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="LongestAscendingSubarray.test_LongestAscSubarray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DynamicProgrammingI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myCodePractice.Class12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.myCodePractice.Class12" />
+      <option name="MAIN_CLASS_NAME" value="com.myCodePractice.Class12.LongestAscendingSubarray" />
+      <option name="METHOD_NAME" value="test_LongestAscSubarray" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="MaxProductOfCuttingRope.test_MaxProduct" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DynamicProgrammingI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myCodePractice.Class12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.myCodePractice.Class12" />
+      <option name="MAIN_CLASS_NAME" value="com.myCodePractice.Class12.MaxProductOfCuttingRope" />
+      <option name="METHOD_NAME" value="test_MaxProduct" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -216,9 +277,20 @@
       <properties />
       <listeners />
     </configuration>
+    <list>
+      <item itemvalue="JUnit.CuttingRope.testCuttingRope" />
+      <item itemvalue="JUnit.LongestAscendingSubarray" />
+      <item itemvalue="JUnit.LongestAscendingSubarray.test_LongestAscSubarray" />
+      <item itemvalue="JUnit.MaxProductOfCuttingRope.test_MaxProduct" />
+      <item itemvalue="JUnit.ArrayHopperI.testArrayHopper" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ArrayHopperI.testArrayHopper" />
         <item itemvalue="JUnit.CuttingRope.testCuttingRope" />
+        <item itemvalue="JUnit.MaxProductOfCuttingRope.test_MaxProduct" />
+        <item itemvalue="JUnit.LongestAscendingSubarray.test_LongestAscSubarray" />
+        <item itemvalue="JUnit.LongestAscendingSubarray" />
       </list>
     </recent_temporary>
   </component>
@@ -237,6 +309,8 @@
       <workItem from="1532922187432" duration="594000" />
       <workItem from="1532923097179" duration="30000" />
       <workItem from="1532923175735" duration="3860000" />
+      <workItem from="1532958845967" duration="91000" />
+      <workItem from="1533173196439" duration="7685000" />
     </task>
     <task id="LOCAL-00001" summary="init class 12">
       <created>1531448424083</created>
@@ -245,25 +319,50 @@
       <option name="project" value="LOCAL" />
       <updated>1531448424083</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="latest update">
+      <created>1532958876704</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1532958876705</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CuttingRope_testCuttingRope - 2018.07.30 at 00h 28m 30s.xml">
+    <history-entry file="LongestAscendingSubarray_test_LongestAscSubarray - 2018.08.01 at 22h 45m 47s.xml">
+      <configuration name="LongestAscendingSubarray.test_LongestAscSubarray" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LongestAscendingSubarray_test_LongestAscSubarray - 2018.08.01 at 22h 46m 01s.xml">
+      <configuration name="LongestAscendingSubarray.test_LongestAscSubarray" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MaxProductOfCuttingRope_test_MaxProduct - 2018.08.01 at 23h 03m 11s.xml">
+      <configuration name="MaxProductOfCuttingRope.test_MaxProduct" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MaxProductOfCuttingRope_test_MaxProduct - 2018.08.01 at 23h 07m 49s.xml">
+      <configuration name="MaxProductOfCuttingRope.test_MaxProduct" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MaxProductOfCuttingRope_test_MaxProduct - 2018.08.01 at 23h 09m 48s.xml">
+      <configuration name="MaxProductOfCuttingRope.test_MaxProduct" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MaxProductOfCuttingRope_test_MaxProduct - 2018.08.01 at 23h 14m 03s.xml">
+      <configuration name="MaxProductOfCuttingRope.test_MaxProduct" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CuttingRope_testCuttingRope - 2018.08.01 at 23h 20m 56s.xml">
       <configuration name="CuttingRope.testCuttingRope" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CuttingRope_testCuttingRope - 2018.07.30 at 00h 28m 43s.xml">
-      <configuration name="CuttingRope.testCuttingRope" configurationId="JUnit" />
+    <history-entry file="ArrayHopperI_testArrayHopper - 2018.08.01 at 23h 37m 48s.xml">
+      <configuration name="ArrayHopperI.testArrayHopper" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CuttingRope_testCuttingRope - 2018.07.30 at 00h 28m 57s.xml">
-      <configuration name="CuttingRope.testCuttingRope" configurationId="JUnit" />
+    <history-entry file="ArrayHopperI_testArrayHopper - 2018.08.02 at 00h 23m 00s.xml">
+      <configuration name="ArrayHopperI.testArrayHopper" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CuttingRope_testCuttingRope - 2018.07.30 at 00h 29m 08s.xml">
-      <configuration name="CuttingRope.testCuttingRope" configurationId="JUnit" />
+    <history-entry file="ArrayHopperI_testArrayHopper - 2018.08.02 at 00h 29m 38s.xml">
+      <configuration name="ArrayHopperI.testArrayHopper" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4930000" />
+    <option name="totallyTimeSpent" value="12706000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -271,16 +370,16 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" weight="0.32880098" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32880098" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32880098" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32880098" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.27812114" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2639485" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27110156" />
       <window_info anchor="bottom" id="SonarLint" order="8" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -305,9 +404,84 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="init class 12" />
-    <option name="LAST_COMMIT_MESSAGE" value="init class 12" />
+    <MESSAGE value="latest update" />
+    <option name="LAST_COMMIT_MESSAGE" value="latest update" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class12/LongestAscendingSubarray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class12/ArrayHopperI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class12/MaxProductOfCuttingRope.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class12/CuttingRope.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class12/LongestAscendingSubarray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class12/ArrayHopperI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class12/MaxProductOfCuttingRope.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class12/CuttingRope.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class12/LongestAscendingSubarray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
@@ -371,10 +545,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class12/ArrayHopperI.java">
+    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class12/LongestAscendingSubarray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+        <state relative-caret-position="783">
+          <caret line="42" column="29" selection-start-line="42" selection-start-column="29" selection-end-line="42" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class12/CuttingRope.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="31" column="58" selection-start-line="31" selection-start-column="58" selection-end-line="31" selection-end-column="58" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -383,22 +567,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class12/MaxProductOfCuttingRope.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        <state relative-caret-position="-212">
+          <caret line="44" column="41" lean-forward="true" selection-start-line="44" selection-start-column="41" selection-end-line="44" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class12/LongestAscendingSubarray.java">
+    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class12/ArrayHopperI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class12/CuttingRope.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        <state relative-caret-position="304">
+          <caret line="79" column="33" selection-start-line="79" selection-start-column="33" selection-end-line="79" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

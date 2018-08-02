@@ -29,5 +29,6 @@ public class CuttingRope {
         Assert.assertEquals(2, maxProductOfCuttingRope(3));
         Assert.assertEquals(4, maxProductOfCuttingRope(4));
         Assert.assertEquals(18, maxProductOfCuttingRope(8));
+        Assert.assertEquals(81, maxProductOfCuttingRope(12));
     }
 }
