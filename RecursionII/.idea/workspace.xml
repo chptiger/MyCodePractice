@@ -2,6 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f43bc930-7946-4ce5-8517-b73c7b93dc8a" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../DynamicProgrammingII/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DynamicProgrammingII/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicProgrammingIII/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DynamicProgrammingIII/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicProgrammingIII/DynamicProgrammingIII.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../DynamicProgrammingIII/DynamicProgrammingIII.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicProgrammingIII/src/com/myCodePractice/Class15/LargestCrossWithAllOnes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DynamicProgrammingIII/src/com/myCodePractice/Class15/LargestCrossWithAllOnes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicProgrammingIII/src/com/myCodePractice/Class15/LargestSubmatrixSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DynamicProgrammingIII/src/com/myCodePractice/Class15/LargestSubmatrixSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicProgrammingIII/src/com/myCodePractice/Class15/LargestSubsquare0or1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DynamicProgrammingIII/src/com/myCodePractice/Class15/LargestSubsquare0or1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicProgrammingIII/src/com/myCodePractice/Class15/LargestXWithAllOnes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DynamicProgrammingIII/src/com/myCodePractice/Class15/LargestXWithAllOnes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DynamicProgrammingIII/src/com/myCodePractice/Class15/LongestConsecutive1s.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DynamicProgrammingIII/src/com/myCodePractice/Class15/LongestConsecutive1s.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/myCodePractice/Class10/LowestCommonAncestorI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/myCodePractice/Class10/LowestCommonAncestorI.java" afterDir="false" />
     </list>
@@ -14,29 +22,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FindNodeWithTheMaxDiffInLeftRight.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/FindNodeWithTheMaxDiffInLeftRight.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-39">
-              <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LowestCommonAncestorI.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/LowestCommonAncestorI.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="42" column="39" lean-forward="true" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -85,6 +71,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -107,14 +95,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -147,6 +134,29 @@
       <option name="PACKAGE_NAME" value="com.myCodePractice.Class10" />
       <option name="MAIN_CLASS_NAME" value="com.myCodePractice.Class10.AbbreviationMatching" />
       <option name="METHOD_NAME" value="test_AbbreviationMatching" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="LowestCommonAncestorI.testRec" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RecursionII" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myCodePractice.Class10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.myCodePractice.Class10" />
+      <option name="MAIN_CLASS_NAME" value="com.myCodePractice.Class10.LowestCommonAncestorI" />
+      <option name="METHOD_NAME" value="testRec" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -226,29 +236,6 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="SpiralOrderTraverseII.test_spiralII" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="RecursionII" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.myCodePractice.Class10.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.myCodePractice.Class10" />
-      <option name="MAIN_CLASS_NAME" value="com.myCodePractice.Class10.SpiralOrderTraverseII" />
-      <option name="METHOD_NAME" value="test_spiralII" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -288,19 +275,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.SpiralOrderTraverseII.test_spiralII" />
       <item itemvalue="JUnit.ReverseLinkedListInPairs.test_ReverseLinkedList" />
       <item itemvalue="JUnit.ReverseLinkedListInPairs" />
       <item itemvalue="JUnit.AbbreviationMatching.test_AbbreviationMatching" />
       <item itemvalue="JUnit.LowestCommonAncestorI.test_LCA" />
+      <item itemvalue="JUnit.LowestCommonAncestorI.testRec" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.LowestCommonAncestorI.test_LCA" />
+        <item itemvalue="JUnit.LowestCommonAncestorI.testRec" />
         <item itemvalue="JUnit.AbbreviationMatching.test_AbbreviationMatching" />
         <item itemvalue="JUnit.ReverseLinkedListInPairs.test_ReverseLinkedList" />
         <item itemvalue="JUnit.ReverseLinkedListInPairs" />
-        <item itemvalue="JUnit.SpiralOrderTraverseII.test_spiralII" />
       </list>
     </recent_temporary>
   </component>
@@ -318,6 +305,7 @@
       <workItem from="1531777254992" duration="10470000" />
       <workItem from="1532144631757" duration="4409000" />
       <workItem from="1532157929289" duration="13457000" />
+      <workItem from="1533513481297" duration="1710000" />
     </task>
     <task id="LOCAL-00001" summary="init class 09 recursion II">
       <created>1531448014378</created>
@@ -393,43 +381,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ReverseLinkedListInPairs_test_ReverseLinkedList - 2018.07.21 at 23h 52m 31s.xml">
-      <configuration name="ReverseLinkedListInPairs.test_ReverseLinkedList" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReverseLinkedListInPairs_test_ReverseLinkedList - 2018.07.21 at 23h 53m 00s.xml">
-      <configuration name="ReverseLinkedListInPairs.test_ReverseLinkedList" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReverseLinkedListInPairs_test_ReverseLinkedList - 2018.07.21 at 23h 53m 35s.xml">
-      <configuration name="ReverseLinkedListInPairs.test_ReverseLinkedList" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReverseLinkedListInPairs_test_ReverseLinkedList - 2018.07.21 at 23h 54m 09s.xml">
-      <configuration name="ReverseLinkedListInPairs.test_ReverseLinkedList" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReverseLinkedListInPairs_test_ReverseLinkedList - 2018.07.21 at 23h 54m 23s.xml">
-      <configuration name="ReverseLinkedListInPairs.test_ReverseLinkedList" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AbbreviationMatching_test_AbbreviationMatching - 2018.07.22 at 01h 00m 07s.xml">
-      <configuration name="AbbreviationMatching.test_AbbreviationMatching" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AbbreviationMatching_test_AbbreviationMatching - 2018.07.22 at 01h 00m 19s.xml">
-      <configuration name="AbbreviationMatching.test_AbbreviationMatching" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AbbreviationMatching_test_AbbreviationMatching - 2018.07.22 at 01h 03m 47s.xml">
-      <configuration name="AbbreviationMatching.test_AbbreviationMatching" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AbbreviationMatching_test_AbbreviationMatching - 2018.07.22 at 01h 07m 12s.xml">
-      <configuration name="AbbreviationMatching.test_AbbreviationMatching" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="LowestCommonAncestorI_test_LCA - 2018.07.22 at 01h 25m 47s.xml">
+      <configuration name="LowestCommonAncestorI.test_LCA" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LowestCommonAncestorI_test_LCA - 2018.08.05 at 20h 11m 28s.xml">
+      <configuration name="LowestCommonAncestorI.test_LCA" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LowestCommonAncestorI_test_LCA - 2018.08.05 at 20h 11m 39s.xml">
+      <configuration name="LowestCommonAncestorI.test_LCA" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LowestCommonAncestorI_test_LCA - 2018.08.05 at 20h 12m 45s.xml">
+      <configuration name="LowestCommonAncestorI.test_LCA" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LowestCommonAncestorI_testRec - 2018.08.05 at 20h 18m 17s.xml">
+      <configuration name="LowestCommonAncestorI.testRec" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LowestCommonAncestorI_testRec - 2018.08.05 at 20h 19m 30s.xml">
+      <configuration name="LowestCommonAncestorI.testRec" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LowestCommonAncestorI_testRec - 2018.08.05 at 20h 20m 13s.xml">
+      <configuration name="LowestCommonAncestorI.testRec" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LowestCommonAncestorI_testRec - 2018.08.05 at 20h 21m 08s.xml">
+      <configuration name="LowestCommonAncestorI.testRec" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LowestCommonAncestorI_testRec - 2018.08.05 at 20h 22m 49s.xml">
+      <configuration name="LowestCommonAncestorI.testRec" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LowestCommonAncestorI_test_LCA - 2018.08.05 at 20h 26m 20s.xml">
       <configuration name="LowestCommonAncestorI.test_LCA" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28688000" />
+    <option name="totallyTimeSpent" value="30398000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -438,18 +425,18 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34116194" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2249691" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6586922" visible="true" weight="0.26037195" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.65760195" visible="true" weight="0.26323318" />
       <window_info anchor="bottom" id="SonarLint" order="7" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info id="Structure" order="1" sideWeight="0.34130782" side_tool="true" visible="true" weight="0.26037195" />
+      <window_info id="Structure" order="1" sideWeight="0.34239802" side_tool="true" visible="true" weight="0.26323318" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3226205" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -484,6 +471,23 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/FindNodeWithTheMaxDiffInLeftRight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/LowestCommonAncestorI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="897">
+          <caret line="42" column="39" lean-forward="true" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/StoreNumberOfNodesInLeftSubtree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
@@ -694,20 +698,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/FindNodeWithTheMaxDiffInLeftRight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-39">
-          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/LowestCommonAncestorI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="42" column="39" lean-forward="true" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
+        <state relative-caret-position="1265">
+          <caret line="57" column="50" lean-forward="true" selection-start-line="57" selection-start-column="50" selection-end-line="57" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class10/FindNodeWithTheMaxDiffInLeftRight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
         </state>
       </provider>
     </entry>

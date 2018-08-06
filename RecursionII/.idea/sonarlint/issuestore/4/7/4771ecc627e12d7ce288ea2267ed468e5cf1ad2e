@@ -1,8 +1,7 @@
 
-~squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿç¼ıÿÿÿÿ8şÑñ®Ê,
-nsquid:CommentedOutCodeLine*"<This block of commented-out lines of code should be removed.(ß¢ì‚şÿÿÿÿ8ñ»õ®Ê,
-„"squid:ClassVariableVisibilityCheck"OMake key a static final constant or non-public and provide accessors if needed.(‰õÙ…8şÑñ®Ê,
-…"squid:ClassVariableVisibilityCheck"PMake left a static final constant or non-public and provide accessors if needed.(ŠËÌç8şÑñ®Ê,
-‹"squid:ClassVariableVisibilityCheck"QMake right a static final constant or non-public and provide accessors if needed.(ë™Ùµøÿÿÿÿ8şÑñ®Ê,
-Csquid:S1172#"&Remove these unused method parameters.(ãæâ8şÑñ®Ê,
-msquid:S00100)"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ˜â²8şÑñ®Ê,
+Msquid:S1068#"*Remove this unused "isStop" private field.(—ÏöÓüÿÿÿÿ8£º‚åĞ,
+…"squid:ClassVariableVisibilityCheck"PMake left a static final constant or non-public and provide accessors if needed.(ŠËÌç8›“ÌäĞ,
+‹"squid:ClassVariableVisibilityCheck"QMake right a static final constant or non-public and provide accessors if needed.(ë™Ùµøÿÿÿÿ8›“ÌäĞ,
+„"squid:ClassVariableVisibilityCheck"OMake key a static final constant or non-public and provide accessors if needed.(‰õÙ…8›“ÌäĞ,
+~squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿç¼ıÿÿÿÿ8›“ÌäĞ,
+msquid:S001002"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ˜â²8›“ÌäĞ,

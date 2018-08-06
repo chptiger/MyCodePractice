@@ -32,7 +32,7 @@ public class LowestCommonAncestorI {
             this.key = key;
         }
     }
-
+    private boolean isStop = true;
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode one, TreeNode two) {
         // Write your solution here.
         if (root == null || root == one || root == two) {
@@ -53,6 +53,7 @@ public class LowestCommonAncestorI {
         root.right = new TreeNode(12);
         root.left.left = new TreeNode(2);
         root.left.right = new TreeNode(3);
+        root.right.left = new TreeNode(13);
         root.right.right = new TreeNode(14);
         Assert.assertEquals(5, lowestCommonAncestor(root, root.left.left, root.right.right).key);
         Assert.assertEquals(9, lowestCommonAncestor(root, root.left.left, root.left).key);

@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab75b6be-c95d-47e8-8e13-b139e3f393ca" name="Default" comment="init class 13">
-      <change beforePath="$PROJECT_DIR$/../DynamicProgrammingI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DynamicProgrammingI/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ab75b6be-c95d-47e8-8e13-b139e3f393ca" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DynamicProgrammingII.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicProgrammingII.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/myCodePractice/Class13/ArrayHopperII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/myCodePractice/Class13/ArrayHopperII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/myCodePractice/Class13/DictionaryWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/myCodePractice/Class13/DictionaryWord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/myCodePractice/Class13/EditDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/myCodePractice/Class13/EditDistance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/myCodePractice/Class13/LargestSquareOfOnes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/myCodePractice/Class13/LargestSquareOfOnes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/myCodePractice/Class13/LargestSubarraySum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/myCodePractice/Class13/LargestSubarraySum.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,8 +17,8 @@
       <file leaf-file-name="ArrayHopperII.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class13/ArrayHopperII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
-              <caret line="73" column="68" lean-forward="true" selection-start-line="71" selection-start-column="8" selection-end-line="73" selection-end-column="68" />
+            <state relative-caret-position="606">
+              <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -118,6 +111,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -324,7 +318,7 @@
       <option name="presentableId" value="Default" />
       <updated>1531448463345</updated>
       <workItem from="1531448466543" duration="186000" />
-      <workItem from="1533334179467" duration="11655000" />
+      <workItem from="1533334179467" duration="11734000" />
     </task>
     <task id="LOCAL-00001" summary="init class 13">
       <created>1531448577724</created>
@@ -333,7 +327,14 @@
       <option name="project" value="LOCAL" />
       <updated>1531448577724</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update dp II all practices">
+      <created>1533358674217</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1533358674217</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -369,7 +370,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11841000" />
+    <option name="totallyTimeSpent" value="11920000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -382,7 +383,7 @@
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="5" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.32880098" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32880098" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info id="Designer" order="2" />
@@ -411,7 +412,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="init class 13" />
-    <option name="LAST_COMMIT_MESSAGE" value="init class 13" />
+    <MESSAGE value="update dp II all practices" />
+    <option name="LAST_COMMIT_MESSAGE" value="update dp II all practices" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class13/ArrayHopperII.java">
@@ -503,8 +505,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class13/ArrayHopperII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="73" column="68" lean-forward="true" selection-start-line="71" selection-start-column="8" selection-end-line="73" selection-end-column="68" />
+        <state relative-caret-position="606">
+          <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
