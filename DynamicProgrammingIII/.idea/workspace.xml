@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="802e7be5-ef0c-4d81-9257-8bf233ea6e3a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../DynamicProgrammingII/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DynamicProgrammingII/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DynamicProgrammingIII.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicProgrammingIII.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/myCodePractice/Class15/LargestCrossWithAllOnes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/myCodePractice/Class15/LargestCrossWithAllOnes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/myCodePractice/Class15/LargestSubmatrixSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/myCodePractice/Class15/LargestSubmatrixSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/myCodePractice/Class15/LargestSubsquare0or1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/myCodePractice/Class15/LargestSubsquare0or1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/myCodePractice/Class15/LargestXWithAllOnes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/myCodePractice/Class15/LargestXWithAllOnes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/myCodePractice/Class15/LongestConsecutive1s.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/myCodePractice/Class15/LongestConsecutive1s.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,11 +17,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="LongestConsecutive1s.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class15/LongestConsecutive1s.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="316">
+              <caret line="33" column="17" lean-forward="true" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="LargestSubsquare0or1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class15/LargestSubsquare0or1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="69">
               <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LargestCrossWithAllOnes.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class15/LargestCrossWithAllOnes.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2622">
+              <caret line="119" column="1" selection-start-line="119" selection-start-column="1" selection-end-line="119" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -39,11 +59,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LargestSubmatrixSum.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LargestSubmatrixSum.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class15/LargestSubmatrixSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="55" column="22" lean-forward="true" selection-start-line="55" selection-start-column="22" selection-end-line="55" selection-end-column="22" />
+            <state relative-caret-position="1127">
+              <caret line="52" column="51" selection-start-line="52" selection-start-column="51" selection-end-line="52" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -57,6 +77,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -67,10 +88,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/com/myCodePractice/Class15/LargestSubsquare0or1.java" />
-        <option value="$PROJECT_DIR$/src/com/myCodePractice/Class15/LargestCrossWithAllOnes.java" />
-        <option value="$PROJECT_DIR$/src/com/myCodePractice/Class15/LongestConsecutive1s.java" />
         <option value="$PROJECT_DIR$/src/com/myCodePractice/Class15/LargestXWithAllOnes.java" />
         <option value="$PROJECT_DIR$/src/com/myCodePractice/Class15/LargestSubmatrixSum.java" />
+        <option value="$PROJECT_DIR$/src/com/myCodePractice/Class15/LargestCrossWithAllOnes.java" />
+        <option value="$PROJECT_DIR$/src/com/myCodePractice/Class15/List.java" />
+        <option value="$PROJECT_DIR$/src/com/myCodePractice/Class15/LongestConsecutive1s.java" />
       </list>
     </option>
   </component>
@@ -84,9 +106,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="800" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -96,6 +117,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -118,11 +141,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -130,6 +152,9 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.myCodePractice.Class15" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/.idea" />
@@ -148,9 +173,32 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.LargestSubmatrixSum.testLargestSubmatrixSum">
+  <component name="RunManager" selected="JUnit.LongestConsecutive1s.testRec">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="LargestCrossWithAllOnes.test_Rec" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DynamicProgrammingIII" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myCodePractice.Class15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.myCodePractice.Class15" />
+      <option name="MAIN_CLASS_NAME" value="com.myCodePractice.Class15.LargestCrossWithAllOnes" />
+      <option name="METHOD_NAME" value="test_Rec" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration name="LargestCrossWithAllOnes.test_largestCrossAll1s" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="DynamicProgrammingIII" />
@@ -221,7 +269,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="LongestConsecutive1s.test_longestConsecutive1s" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LongestConsecutive1s.testRec" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="DynamicProgrammingIII" />
       <extension name="coverage">
         <pattern>
@@ -233,7 +281,7 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.myCodePractice.Class15" />
       <option name="MAIN_CLASS_NAME" value="com.myCodePractice.Class15.LongestConsecutive1s" />
-      <option name="METHOD_NAME" value="test_longestConsecutive1s" />
+      <option name="METHOD_NAME" value="testRec" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -283,17 +331,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.LongestConsecutive1s.test_longestConsecutive1s" />
       <item itemvalue="JUnit.LargestCrossWithAllOnes.test_largestCrossAll1s" />
       <item itemvalue="JUnit.LargestXWithAllOnes.testLargestXwith1s" />
       <item itemvalue="JUnit.LargestSubmatrixSum.testLargestSubmatrixSum" />
+      <item itemvalue="JUnit.LargestCrossWithAllOnes.test_Rec" />
+      <item itemvalue="JUnit.LongestConsecutive1s.testRec" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LongestConsecutive1s.testRec" />
+        <item itemvalue="JUnit.LargestCrossWithAllOnes.test_Rec" />
         <item itemvalue="JUnit.LargestSubmatrixSum.testLargestSubmatrixSum" />
         <item itemvalue="JUnit.LargestXWithAllOnes.testLargestXwith1s" />
         <item itemvalue="JUnit.LargestCrossWithAllOnes.test_largestCrossAll1s" />
-        <item itemvalue="JUnit.LongestConsecutive1s.test_longestConsecutive1s" />
       </list>
     </recent_temporary>
   </component>
@@ -309,6 +359,8 @@
       <updated>1531448650442</updated>
       <workItem from="1531448653444" duration="400000" />
       <workItem from="1533431517472" duration="7275000" />
+      <workItem from="1533515200454" duration="3054000" />
+      <workItem from="1533780690468" duration="19000" />
     </task>
     <task id="LOCAL-00001" summary="Init Class 15">
       <created>1531448834304</created>
@@ -317,28 +369,17 @@
       <option name="project" value="LOCAL" />
       <updated>1531448834304</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update class 15">
+      <created>1533515219356</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1533515219356</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LongestConsecutive1s_test_longestConsecutive1s - 2018.08.04 at 21h 21m 46s.xml">
-      <configuration name="LongestConsecutive1s.test_longestConsecutive1s" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LargestCrossWithAllOnes_test_largestCrossAll1s - 2018.08.04 at 22h 18m 59s.xml">
-      <configuration name="LargestCrossWithAllOnes.test_largestCrossAll1s" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LargestCrossWithAllOnes_test_largestCrossAll1s - 2018.08.04 at 22h 22m 12s.xml">
-      <configuration name="LargestCrossWithAllOnes.test_largestCrossAll1s" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LargestXWithAllOnes_testLargestXwith1s - 2018.08.04 at 22h 40m 15s.xml">
-      <configuration name="LargestXWithAllOnes.testLargestXwith1s" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LargestXWithAllOnes_testLargestXwith1s - 2018.08.04 at 22h 43m 17s.xml">
-      <configuration name="LargestXWithAllOnes.testLargestXwith1s" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LargestXWithAllOnes_testLargestXwith1s - 2018.08.04 at 22h 43m 38s.xml">
-      <configuration name="LargestXWithAllOnes.testLargestXwith1s" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="LargestSubmatrixSum_testLargestSubmatrixSum - 2018.08.04 at 23h 21m 53s.xml">
       <configuration name="LargestSubmatrixSum.testLargestSubmatrixSum" configurationId="JUnit" />
     </history-entry>
@@ -351,9 +392,27 @@
     <history-entry file="LargestSubmatrixSum_testLargestSubmatrixSum - 2018.08.04 at 23h 31m 07s.xml">
       <configuration name="LargestSubmatrixSum.testLargestSubmatrixSum" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="LargestCrossWithAllOnes_test_Rec - 2018.08.05 at 21h 17m 45s.xml">
+      <configuration name="LargestCrossWithAllOnes.test_Rec" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LargestCrossWithAllOnes_test_Rec - 2018.08.05 at 21h 18m 09s.xml">
+      <configuration name="LargestCrossWithAllOnes.test_Rec" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LargestCrossWithAllOnes_test_Rec - 2018.08.05 at 21h 18m 26s.xml">
+      <configuration name="LargestCrossWithAllOnes.test_Rec" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LargestCrossWithAllOnes_test_Rec - 2018.08.05 at 21h 22m 17s.xml">
+      <configuration name="LargestCrossWithAllOnes.test_Rec" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LongestConsecutive1s_testRec - 2018.08.05 at 23h 46m 06s.xml">
+      <configuration name="LongestConsecutive1s.testRec" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LongestConsecutive1s_testRec - 2018.08.05 at 23h 48m 01s.xml">
+      <configuration name="LongestConsecutive1s.testRec" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7675000" />
+    <option name="totallyTimeSpent" value="10748000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -361,29 +420,29 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" weight="0.32880098" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.27812114" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
-      <window_info anchor="bottom" id="SonarLint" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
+      <window_info anchor="bottom" id="SonarLint" order="7" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2843016" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39925835" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32880098" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -395,14 +454,83 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="Init Class 15" />
-    <option name="LAST_COMMIT_MESSAGE" value="Init Class 15" />
+    <MESSAGE value="update class 15" />
+    <option name="LAST_COMMIT_MESSAGE" value="update class 15" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="3" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class15/LongestConsecutive1s.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1196">
+          <caret line="52" column="4" lean-forward="true" selection-start-line="52" selection-start-column="4" selection-end-line="72" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class15/LargestSubsquare0or1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class15/LargestCrossWithAllOnes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2622">
+          <caret line="119" column="1" lean-forward="true" selection-start-line="119" selection-start-column="1" selection-end-line="119" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class15/SurroundedByOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class15/LargestSubmatrixSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1127">
+          <caret line="52" column="51" lean-forward="true" selection-start-line="52" selection-start-column="51" selection-end-line="52" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class15/LargestSubsquare0or1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class15/SurroundedByOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class15/LargestSubmatrixSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1265">
+          <caret line="55" column="22" lean-forward="true" selection-start-line="55" selection-start-column="22" selection-end-line="55" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class15/LongestConsecutive1s.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
@@ -460,30 +588,10 @@
     <entry file="file://$PROJECT_DIR$/DynamicProgrammingIII.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class15/LongestConsecutive1s.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="26" column="22" lean-forward="true" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class15/LargestXWithAllOnes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
           <caret line="91" column="15" selection-start-line="91" selection-start-column="15" selection-end-line="91" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class15/LargestCrossWithAllOnes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
-          <caret line="108" column="5" lean-forward="true" selection-start-line="99" selection-start-column="4" selection-end-line="108" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -506,8 +614,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class15/LargestSubmatrixSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="55" column="22" lean-forward="true" selection-start-line="55" selection-start-column="22" selection-end-line="55" selection-end-column="22" />
+        <state relative-caret-position="1127">
+          <caret line="52" column="51" selection-start-line="52" selection-start-column="51" selection-end-line="52" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class15/LargestCrossWithAllOnes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2622">
+          <caret line="119" column="1" selection-start-line="119" selection-start-column="1" selection-end-line="119" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class15/List.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class15/LongestConsecutive1s.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="33" column="17" lean-forward="true" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
