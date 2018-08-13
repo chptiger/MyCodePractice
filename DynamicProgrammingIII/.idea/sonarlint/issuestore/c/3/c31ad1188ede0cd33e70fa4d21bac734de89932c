@@ -1,0 +1,6 @@
+
+[squid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ÕÑãÑ,
+~squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õ¿„¢ûÿÿÿÿ8ç¿ÊêĞ,
+Xsquid:UselessImportCheck".Remove this unused import 'java.util.HashSet'.(Ê‚êX8ÕÑãÑ,
+[squid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ÕÑãÑ,
+Zsquid:UselessImportCheck	"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ8ÕÑãÑ,

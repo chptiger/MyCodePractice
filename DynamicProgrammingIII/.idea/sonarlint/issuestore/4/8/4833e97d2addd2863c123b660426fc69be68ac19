@@ -1,0 +1,5 @@
+
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¸¤è8ðÙ²½Ð,
+~squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õ¿„¢ûÿÿÿÿ8ðÙ²½Ð,
+Psquid:S11728"-Remove this unused method parameter "matrix".(åúåºøÿÿÿÿ8ƒù©¿Ð,
+Jsquid:S1172E"-Remove this unused method parameter "matrix".(ñåœ>8ƒù©¿Ð,

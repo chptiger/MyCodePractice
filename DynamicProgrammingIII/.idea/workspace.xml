@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="802e7be5-ef0c-4d81-9257-8bf233ea6e3a" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/myCodePractice/Class15/LargestSubsquare0or1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/myCodePractice/Class15/LargestSubsquare0or1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/myCodePractice/Class15/SurroundedByOne.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,8 +17,8 @@
       <file leaf-file-name="LargestSubsquare0or1.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class15/LargestSubsquare0or1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="395">
-              <caret line="37" column="17" lean-forward="true" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
+            <state relative-caret-position="188">
+              <caret line="28" column="41" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -341,7 +339,7 @@
       <workItem from="1531448653444" duration="400000" />
       <workItem from="1533431517472" duration="7275000" />
       <workItem from="1533515200454" duration="3054000" />
-      <workItem from="1533780690468" duration="2832000" />
+      <workItem from="1533780690468" duration="2859000" />
     </task>
     <task id="LOCAL-00001" summary="Init Class 15">
       <created>1531448834304</created>
@@ -364,7 +362,14 @@
       <option name="project" value="LOCAL" />
       <updated>1533780794628</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update class 15 all practices">
+      <created>1533783543835</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1533783543835</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -400,11 +405,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13561000" />
+    <option name="totallyTimeSpent" value="13588000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -413,7 +417,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.27812114" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27812114" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Designer" order="2" />
@@ -443,7 +447,8 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="Init Class 15" />
     <MESSAGE value="update class 15" />
-    <option name="LAST_COMMIT_MESSAGE" value="update class 15" />
+    <MESSAGE value="update class 15 all practices" />
+    <option name="LAST_COMMIT_MESSAGE" value="update class 15 all practices" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -629,8 +634,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/myCodePractice/Class15/LargestSubsquare0or1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="37" column="17" lean-forward="true" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
+        <state relative-caret-position="188">
+          <caret line="28" column="41" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
