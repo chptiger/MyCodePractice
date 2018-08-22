@@ -1,4 +1,4 @@
 
-hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¬¥ƒ8¬Ê¯Õ,
 žsquid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(™Ñ§(8ý¬Ž¯Õ,
 wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(èçÕ°ùÿÿÿÿ
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¬¥ƒ8¬Ê¯Õ,
