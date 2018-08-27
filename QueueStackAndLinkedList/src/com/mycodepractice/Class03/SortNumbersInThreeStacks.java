@@ -8,6 +8,6 @@ and from top to bottom the numbers are sorted in ascending order
  */
 public class SortNumbersInThreeStacks {
     public void sort(LinkedList<Integer> s1){
-
+        return ;
     }
 }

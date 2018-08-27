@@ -10,6 +10,6 @@ package com.mycodepractice.Class03;
         L = 1 -> 2 -> 3 -> null, is reordred to 1 -> 3 -> 2 -> null*/
 public class ReorderLinkedList {
     public ListNode reorder(ListNode head) {
-
+        return head;
     }
 }

@@ -9,6 +9,6 @@ package com.mycodepractice.Class03;
         L1 = null, L2 = null, merge L1 and L2 to null*/
 public class MergeTwoSortedLinkedList {
     public ListNode merge(ListNode one, ListNode two) {
-
+        return null;
     }
 }

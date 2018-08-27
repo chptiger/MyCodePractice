@@ -10,6 +10,6 @@ package com.mycodepractice.Class03;
         L = 2 -> 3 -> null, insert 1, return 1 -> 2 -> 3 -> null*/
 public class InsertInSortedLinkedList {
     public ListNode insert(ListNode head, int value) {
-
+        return null;
     }
 }

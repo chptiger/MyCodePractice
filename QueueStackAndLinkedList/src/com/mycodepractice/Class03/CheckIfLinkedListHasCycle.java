@@ -4,6 +4,6 @@ package com.mycodepractice.Class03;
 
 public class CheckIfLinkedListHasCycle {
     public boolean hasCycle(ListNode head) {
-
+        return false;
     }
 }

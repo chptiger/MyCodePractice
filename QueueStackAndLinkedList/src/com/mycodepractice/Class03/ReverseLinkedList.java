@@ -9,6 +9,6 @@ package com.mycodepractice.Class03;
         L = 1 -> 2 -> 3 -> null, return 3 -> 2 -> 1 -> null*/
 public class ReverseLinkedList {
     public ListNode reverse(ListNode head) {
-
+        return head;
     }
 }
