@@ -12,6 +12,6 @@ package com.mycodepractice.Class03;
 
 public class FindMiddleNodeOfLinkedList {
     public ListNode middleNode(ListNode head) {
-
+        return null;
     }
 }

@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a001911-e1ab-4d7e-91f8-465ff7c371c9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArrayAndSorting.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayAndSorting.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mycodepractice/Class01/ArrayAndSorting/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mycodepractice/Class01/ArrayAndSorting/MergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mycodepractice/Class01/ArrayAndSorting/Move0sToTheEndI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mycodepractice/Class01/ArrayAndSorting/Move0sToTheEndI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mycodepractice/Class01/ArrayAndSorting/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mycodepractice/Class01/ArrayAndSorting/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mycodepractice/Class01/ArrayAndSorting/RainbowSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mycodepractice/Class01/ArrayAndSorting/RainbowSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mycodepractice/Class01/ArrayAndSorting/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mycodepractice/Class01/ArrayAndSorting/SelectionSort.java" afterDir="false" />
-    </list>
+    <list default="true" id="4a001911-e1ab-4d7e-91f8-465ff7c371c9" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -72,7 +64,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/mycodepractice/Class01/ArrayAndSorting/RainbowSort.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="258">
-              <caret line="29" column="99" selection-start-line="29" selection-start-column="99" selection-end-line="29" selection-end-column="99" />
+              <caret line="29" column="68" selection-start-line="29" selection-start-column="68" selection-end-line="29" selection-end-column="68" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -367,7 +359,7 @@
       <workItem from="1534743960279" duration="454000" />
       <workItem from="1534911179356" duration="54000" />
       <workItem from="1535383810505" duration="7383000" />
-      <workItem from="1535396158193" duration="128000" />
+      <workItem from="1535396158193" duration="261000" />
     </task>
     <task id="LOCAL-00001" summary="class 01">
       <created>1534744377890</created>
@@ -383,7 +375,14 @@
       <option name="project" value="LOCAL" />
       <updated>1534911224125</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="sorting practices">
+      <created>1535396305593</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1535396305593</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -419,7 +418,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8019000" />
+    <option name="totallyTimeSpent" value="8152000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1293" height="773" extended-state="6" />
@@ -461,7 +460,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="class 01" />
-    <option name="LAST_COMMIT_MESSAGE" value="class 01" />
+    <MESSAGE value="sorting practices" />
+    <option name="LAST_COMMIT_MESSAGE" value="sorting practices" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/mycodepractice/Class01/ArrayAndSorting/SelectionSort.java">
@@ -642,7 +642,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/mycodepractice/Class01/ArrayAndSorting/RainbowSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="258">
-          <caret line="29" column="99" selection-start-line="29" selection-start-column="99" selection-end-line="29" selection-end-column="99" />
+          <caret line="29" column="68" selection-start-line="29" selection-start-column="68" selection-end-line="29" selection-end-column="68" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
