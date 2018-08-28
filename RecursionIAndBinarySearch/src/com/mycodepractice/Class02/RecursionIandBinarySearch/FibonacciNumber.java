@@ -1,6 +1,11 @@
 package com.mycodepractice.Class02.RecursionIandBinarySearch;
+
+import org.junit.Assert;
+import org.junit.Test;
+
 /*Description
-        Get the Kth number in the Fibonacci Sequence. (K is 0-indexed, the 0th Fibonacci number is 0 and the 1st Fibonacci number is 1).
+        Get the Kth number in the Fibonacci Sequence.
+        (K is 0-indexed, the 0th Fibonacci number is 0 and the 1st Fibonacci number is 1).
 
         Examples
 
@@ -18,6 +23,21 @@ package com.mycodepractice.Class02.RecursionIandBinarySearch;
         and sometimes we will need to use something like BigInteger.*/
 public class FibonacciNumber {
     public long fibonacci(int K) {
+        if (K == 0 || K == 1) {
+            return K;
+        } else if (K < 0) {
+            return 0;
+        }else{
+            return fibonacci(K-1)+fibonacci(K-2);
+        }
+    }
 
+    @Test
+    public void test_Fibo() {
+        Assert.assertEquals(0, fibonacci(0));
+        Assert.assertEquals(1, fibonacci(1));
+        Assert.assertEquals(1, fibonacci(2));
+        Assert.assertEquals(1, fibonacci(2));
+        Assert.assertEquals(8, fibonacci(6));
     }
 }
