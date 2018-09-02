@@ -1,4 +1,7 @@
 package com.mycodepractice.Class04.BinaryTreeAndBinarySearchTree;
+
+import java.util.List;
+
 /*Description
 Get the list of keys in a given binary search tree in a given range[min, max] in ascending order, both min and max are inclusive.
 
@@ -38,6 +41,6 @@ The sequence [1, 2, 3, #, #, 4] represents the following binary tree:
     4*/
 public class GetKeysInBinarySearchTreeInGivenRange {
     public List<Integer> getRange(TreeNode root, int min, int max) {
-
+        return null;
     }
 }
