@@ -1,7 +1,9 @@
 
-asquid:S1155(">Use isEmpty() to check whether the collection is empty or not.(Ø„Šüÿÿÿÿ8ö´Ñ¯Õ,
-\squid:S11558">Use isEmpty() to check whether the collection is empty or not.(Õ¤á8ö´Ñ¯Õ,
+\squid:S1155;">Use isEmpty() to check whether the collection is empty or not.(Õ¤á8ö´Ñ¯Õ,
+asquid:S1155+">Use isEmpty() to check whether the collection is empty or not.(Ø„Šüÿÿÿÿ8ö´Ñ¯Õ,
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(½¶ƒéşÿÿÿÿ8ëÁÏ¯Õ,
+\squid:S1155;">Use isEmpty() to check whether the collection is empty or not.(Õ¤á8ö´Ñ¯Õ,
 wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¥ê×Ôüÿÿÿÿ
-asquid:S1155">Use isEmpty() to check whether the collection is empty or not.(ŠĞ½ ÿÿÿÿÿ8ö´Ñ¯Õ,
-nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(½¶ƒéşÿÿÿÿ8ëÁÏ¯Õ,
-\squid:S11558">Use isEmpty() to check whether the collection is empty or not.(Õ¤á8ö´Ñ¯Õ,
+asquid:S1155"">Use isEmpty() to check whether the collection is empty or not.(ŠĞ½ ÿÿÿÿÿ8ö´Ñ¯Õ,
+msquid:S00100?"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú¡ƒÌ8”êÁÙ,
+?squid:S2129F"!Remove this "Integer" constructor(Áœª8”êÁÙ,

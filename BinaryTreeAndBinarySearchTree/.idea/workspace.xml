@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee2490e0-c84a-4c15-a3ee-856627e6e4e1" name="Default" comment="" />
+    <list default="true" id="ee2490e0-c84a-4c15-a3ee-856627e6e4e1" name="Default" comment="Class 04">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTreeAndBinarySearchTree.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTreeAndBinarySearchTree.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mycodepractice/Class04/BinaryTreeAndBinarySearchTree/CheckIfBinaryTreeIsBalanced.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mycodepractice/Class04/BinaryTreeAndBinarySearchTree/CheckIfBinaryTreeIsBalanced.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mycodepractice/Class04/BinaryTreeAndBinarySearchTree/CheckIfBinaryTreeIsSymmetric.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mycodepractice/Class04/BinaryTreeAndBinarySearchTree/CheckIfBinaryTreeIsSymmetric.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mycodepractice/Class04/BinaryTreeAndBinarySearchTree/GetKeysInBinarySearchTreeInGivenRange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mycodepractice/Class04/BinaryTreeAndBinarySearchTree/GetKeysInBinarySearchTreeInGivenRange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mycodepractice/Class04/BinaryTreeAndBinarySearchTree/InorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mycodepractice/Class04/BinaryTreeAndBinarySearchTree/InorderTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mycodepractice/Class04/BinaryTreeAndBinarySearchTree/IsBinarySearchTreeOrNot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mycodepractice/Class04/BinaryTreeAndBinarySearchTree/IsBinarySearchTreeOrNot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mycodepractice/Class04/BinaryTreeAndBinarySearchTree/PostorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mycodepractice/Class04/BinaryTreeAndBinarySearchTree/PostorderTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mycodepractice/Class04/BinaryTreeAndBinarySearchTree/PreorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mycodepractice/Class04/BinaryTreeAndBinarySearchTree/PreorderTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mycodepractice/Class04/BinaryTreeAndBinarySearchTree/TweakedIdenticalBinaryTrees.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mycodepractice/Class04/BinaryTreeAndBinarySearchTree/TweakedIdenticalBinaryTrees.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QueueStackAndLinkedList/.idea/sonarlint/issuestore/0/b/0b630fdac4202684017fca0529a806eabe33006e" beforeDir="false" afterPath="$PROJECT_DIR$/../QueueStackAndLinkedList/.idea/sonarlint/issuestore/0/b/0b630fdac4202684017fca0529a806eabe33006e" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QueueStackAndLinkedList/.idea/sonarlint/issuestore/0/e/0eed133f816f00fd1c8df83883e33f48f872e153" beforeDir="false" afterPath="$PROJECT_DIR$/../QueueStackAndLinkedList/.idea/sonarlint/issuestore/0/e/0eed133f816f00fd1c8df83883e33f48f872e153" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QueueStackAndLinkedList/.idea/sonarlint/issuestore/1/c/1c3121aa2864421d3d23efe041bcf6d13390fea8" beforeDir="false" afterPath="$PROJECT_DIR$/../QueueStackAndLinkedList/.idea/sonarlint/issuestore/1/c/1c3121aa2864421d3d23efe041bcf6d13390fea8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QueueStackAndLinkedList/.idea/sonarlint/issuestore/4/d/4d5bea14ca84c662a091ce53c6b2ea3e55f80ddc" beforeDir="false" afterPath="$PROJECT_DIR$/../QueueStackAndLinkedList/.idea/sonarlint/issuestore/4/d/4d5bea14ca84c662a091ce53c6b2ea3e55f80ddc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QueueStackAndLinkedList/.idea/sonarlint/issuestore/4/e/4e0274071c9ce1cfdd3d670b1b44b59d7c67117e" beforeDir="false" afterPath="$PROJECT_DIR$/../QueueStackAndLinkedList/.idea/sonarlint/issuestore/4/e/4e0274071c9ce1cfdd3d670b1b44b59d7c67117e" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QueueStackAndLinkedList/.idea/sonarlint/issuestore/7/e/7e39441cb8f1385a6a719fcbce71ce0926c2f524" beforeDir="false" afterPath="$PROJECT_DIR$/../QueueStackAndLinkedList/.idea/sonarlint/issuestore/7/e/7e39441cb8f1385a6a719fcbce71ce0926c2f524" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QueueStackAndLinkedList/.idea/sonarlint/issuestore/8/2/8241a3d4721e4df30f37f9e2ec9b8c4d295c9a3d" beforeDir="false" afterPath="$PROJECT_DIR$/../QueueStackAndLinkedList/.idea/sonarlint/issuestore/8/2/8241a3d4721e4df30f37f9e2ec9b8c4d295c9a3d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QueueStackAndLinkedList/.idea/sonarlint/issuestore/d/6/d6d9334e3a9035f1085f96a9997a7e70dce26337" beforeDir="false" afterPath="$PROJECT_DIR$/../QueueStackAndLinkedList/.idea/sonarlint/issuestore/d/6/d6d9334e3a9035f1085f96a9997a7e70dce26337" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QueueStackAndLinkedList/.idea/sonarlint/issuestore/e/1/e1e315ab47b7ad59d4b67d2e9e346738ffcf3cf8" beforeDir="false" afterPath="$PROJECT_DIR$/../QueueStackAndLinkedList/.idea/sonarlint/issuestore/e/1/e1e315ab47b7ad59d4b67d2e9e346738ffcf3cf8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QueueStackAndLinkedList/.idea/sonarlint/issuestore/f/7/f7e3348526b523725bb96de8a488f296410c86c2" beforeDir="false" afterPath="$PROJECT_DIR$/../QueueStackAndLinkedList/.idea/sonarlint/issuestore/f/7/f7e3348526b523725bb96de8a488f296410c86c2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QueueStackAndLinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../QueueStackAndLinkedList/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,47 +34,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CheckIfBinaryTreeIsBalanced.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/mycodepractice/Class04/BinaryTreeAndBinarySearchTree/CheckIfBinaryTreeIsBalanced.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1196">
-              <caret line="52" selection-start-line="52" selection-end-line="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CheckIfBinaryTreeIsSymmetric.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/mycodepractice/Class04/BinaryTreeAndBinarySearchTree/CheckIfBinaryTreeIsSymmetric.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1196">
-              <caret line="52" selection-start-line="52" selection-end-line="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="GetKeysInBinarySearchTreeInGivenRange.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/mycodepractice/Class04/BinaryTreeAndBinarySearchTree/GetKeysInBinarySearchTreeInGivenRange.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="920">
-              <caret line="40" selection-start-line="40" selection-end-line="40" />
+            <state relative-caret-position="294">
+              <caret line="42" column="66" lean-forward="true" selection-start-line="42" selection-start-column="66" selection-end-line="42" selection-end-column="66" />
+              <folding>
+                <element signature="e#863#864#0" expanded="true" />
+                <element signature="e#890#891#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IsBinarySearchTreeOrNot.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/mycodepractice/Class04/BinaryTreeAndBinarySearchTree/IsBinarySearchTreeOrNot.java">
+      <file leaf-file-name="InorderTraversal.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/mycodepractice/Class04/BinaryTreeAndBinarySearchTree/InorderTraversal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PostorderTraversal.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/mycodepractice/Class04/BinaryTreeAndBinarySearchTree/PostorderTraversal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="782">
-              <caret line="34" column="15" selection-start-line="34" selection-start-column="15" selection-end-line="34" selection-end-column="15" />
+            <state relative-caret-position="461">
+              <caret line="88" column="36" lean-forward="true" selection-start-line="88" selection-start-column="36" selection-end-line="88" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -60,17 +62,23 @@
       <file leaf-file-name="PreorderTraversal.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/mycodepractice/Class04/BinaryTreeAndBinarySearchTree/PreorderTraversal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="920">
-              <caret line="40" selection-start-line="40" selection-end-line="40" />
+            <state relative-caret-position="261">
+              <caret line="59" column="29" lean-forward="true" selection-start-line="59" selection-start-column="29" selection-end-line="59" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TweakedIdenticalBinaryTrees.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/mycodepractice/Class04/BinaryTreeAndBinarySearchTree/TweakedIdenticalBinaryTrees.java">
+      <file leaf-file-name="PostorderTraversal.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/mycodepractice/Class04/BinaryTreeAndBinarySearchTree/PostorderTraversal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="22" column="18" lean-forward="true" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+            <state relative-caret-position="292">
+              <caret line="93" column="37" lean-forward="true" selection-start-line="93" selection-start-column="37" selection-end-line="93" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -91,14 +99,14 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/com/mycodepractice/Class04/BinaryTreeAndBinarySearchTree/TreeNode.java" />
-        <option value="$PROJECT_DIR$/src/com/mycodepractice/Class04/BinaryTreeAndBinarySearchTree/InorderTraversal.java" />
-        <option value="$PROJECT_DIR$/src/com/mycodepractice/Class04/BinaryTreeAndBinarySearchTree/CheckIfBinaryTreeIsBalanced.java" />
-        <option value="$PROJECT_DIR$/src/com/mycodepractice/Class04/BinaryTreeAndBinarySearchTree/CheckIfBinaryTreeIsSymmetric.java" />
         <option value="$PROJECT_DIR$/src/com/mycodepractice/Class04/BinaryTreeAndBinarySearchTree/GetKeysInBinarySearchTreeInGivenRange.java" />
         <option value="$PROJECT_DIR$/src/com/mycodepractice/Class04/BinaryTreeAndBinarySearchTree/IsBinarySearchTreeOrNot.java" />
-        <option value="$PROJECT_DIR$/src/com/mycodepractice/Class04/BinaryTreeAndBinarySearchTree/PostorderTraversal.java" />
-        <option value="$PROJECT_DIR$/src/com/mycodepractice/Class04/BinaryTreeAndBinarySearchTree/PreorderTraversal.java" />
         <option value="$PROJECT_DIR$/src/com/mycodepractice/Class04/BinaryTreeAndBinarySearchTree/TweakedIdenticalBinaryTrees.java" />
+        <option value="$PROJECT_DIR$/src/com/mycodepractice/Class04/BinaryTreeAndBinarySearchTree/CheckIfBinaryTreeIsBalanced.java" />
+        <option value="$PROJECT_DIR$/src/com/mycodepractice/Class04/BinaryTreeAndBinarySearchTree/CheckIfBinaryTreeIsSymmetric.java" />
+        <option value="$PROJECT_DIR$/src/com/mycodepractice/Class04/BinaryTreeAndBinarySearchTree/InorderTraversal.java" />
+        <option value="$PROJECT_DIR$/src/com/mycodepractice/Class04/BinaryTreeAndBinarySearchTree/PreorderTraversal.java" />
+        <option value="$PROJECT_DIR$/src/com/mycodepractice/Class04/BinaryTreeAndBinarySearchTree/PostorderTraversal.java" />
       </list>
     </option>
   </component>
@@ -121,7 +129,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -145,12 +152,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -166,9 +175,124 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.PostorderTraversal.test_preOrder">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="CheckIfBinaryTreeIsSymmetric.test_isSymmetric" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BinaryTreeAndBinarySearchTree" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mycodepractice.Class04.BinaryTreeAndBinarySearchTree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.mycodepractice.Class04.BinaryTreeAndBinarySearchTree" />
+      <option name="MAIN_CLASS_NAME" value="com.mycodepractice.Class04.BinaryTreeAndBinarySearchTree.CheckIfBinaryTreeIsSymmetric" />
+      <option name="METHOD_NAME" value="test_isSymmetric" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="InorderTraversal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BinaryTreeAndBinarySearchTree" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mycodepractice.Class04.BinaryTreeAndBinarySearchTree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.mycodepractice.Class04.BinaryTreeAndBinarySearchTree" />
+      <option name="MAIN_CLASS_NAME" value="com.mycodepractice.Class04.BinaryTreeAndBinarySearchTree.InorderTraversal" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="InorderTraversal.test_inOrder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BinaryTreeAndBinarySearchTree" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mycodepractice.Class04.BinaryTreeAndBinarySearchTree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.mycodepractice.Class04.BinaryTreeAndBinarySearchTree" />
+      <option name="MAIN_CLASS_NAME" value="com.mycodepractice.Class04.BinaryTreeAndBinarySearchTree.InorderTraversal" />
+      <option name="METHOD_NAME" value="test_inOrder" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="PostorderTraversal.test_preOrder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BinaryTreeAndBinarySearchTree" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mycodepractice.Class04.BinaryTreeAndBinarySearchTree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.mycodepractice.Class04.BinaryTreeAndBinarySearchTree" />
+      <option name="MAIN_CLASS_NAME" value="com.mycodepractice.Class04.BinaryTreeAndBinarySearchTree.PostorderTraversal" />
+      <option name="METHOD_NAME" value="test_preOrder" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="PreorderTraversal.test_preOrder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BinaryTreeAndBinarySearchTree" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mycodepractice.Class04.BinaryTreeAndBinarySearchTree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.mycodepractice.Class04.BinaryTreeAndBinarySearchTree" />
+      <option name="MAIN_CLASS_NAME" value="com.mycodepractice.Class04.BinaryTreeAndBinarySearchTree.PreorderTraversal" />
+      <option name="METHOD_NAME" value="test_preOrder" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -208,6 +332,22 @@
       <properties />
       <listeners />
     </configuration>
+    <list>
+      <item itemvalue="JUnit.CheckIfBinaryTreeIsSymmetric.test_isSymmetric" />
+      <item itemvalue="JUnit.InorderTraversal.test_inOrder" />
+      <item itemvalue="JUnit.InorderTraversal" />
+      <item itemvalue="JUnit.PreorderTraversal.test_preOrder" />
+      <item itemvalue="JUnit.PostorderTraversal.test_preOrder" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PostorderTraversal.test_preOrder" />
+        <item itemvalue="JUnit.PreorderTraversal.test_preOrder" />
+        <item itemvalue="JUnit.InorderTraversal.test_inOrder" />
+        <item itemvalue="JUnit.InorderTraversal" />
+        <item itemvalue="JUnit.CheckIfBinaryTreeIsSymmetric.test_isSymmetric" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -221,6 +361,7 @@
       <updated>1534745868224</updated>
       <workItem from="1534745869808" duration="816000" />
       <workItem from="1534911300033" duration="42000" />
+      <workItem from="1535857438240" duration="4848000" />
     </task>
     <task id="LOCAL-00001" summary="Class 04">
       <created>1534746453678</created>
@@ -239,29 +380,63 @@
     <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="InorderTraversal_test_inOrder - 2018.09.02 at 00h 34m 42s.xml">
+      <configuration name="InorderTraversal.test_inOrder" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InorderTraversal - 2018.09.02 at 00h 34m 52s.xml">
+      <configuration name="InorderTraversal" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InorderTraversal - 2018.09.02 at 00h 35m 01s.xml">
+      <configuration name="InorderTraversal" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InorderTraversal_test_inOrder - 2018.09.02 at 00h 44m 13s.xml">
+      <configuration name="InorderTraversal.test_inOrder" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PreorderTraversal_test_preOrder - 2018.09.02 at 00h 48m 49s.xml">
+      <configuration name="PreorderTraversal.test_preOrder" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PreorderTraversal_test_preOrder - 2018.09.02 at 00h 53m 48s.xml">
+      <configuration name="PreorderTraversal.test_preOrder" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PreorderTraversal_test_preOrder - 2018.09.02 at 00h 58m 20s.xml">
+      <configuration name="PreorderTraversal.test_preOrder" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PostorderTraversal_test_preOrder - 2018.09.02 at 01h 07m 19s.xml">
+      <configuration name="PostorderTraversal.test_preOrder" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PostorderTraversal_test_preOrder - 2018.09.02 at 01h 12m 18s.xml">
+      <configuration name="PostorderTraversal.test_preOrder" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PostorderTraversal_test_preOrder - 2018.09.02 at 01h 12m 42s.xml">
+      <configuration name="PostorderTraversal.test_preOrder" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="858000" />
+    <option name="totallyTimeSpent" value="5706000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.40296662" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32880098" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.40296662" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
       <window_info anchor="bottom" id="SonarLint" order="7" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39925835" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -307,7 +482,85 @@
     <MESSAGE value="Class 04" />
     <option name="LAST_COMMIT_MESSAGE" value="Class 04" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/mycodepractice/Class04/BinaryTreeAndBinarySearchTree/CheckIfBinaryTreeIsBalanced.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1196">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mycodepractice/Class04/BinaryTreeAndBinarySearchTree/CheckIfBinaryTreeIsSymmetric.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1196">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mycodepractice/Class04/BinaryTreeAndBinarySearchTree/GetKeysInBinarySearchTreeInGivenRange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="920">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="e#863#864#0" expanded="true" />
+            <element signature="e#890#891#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mycodepractice/Class04/BinaryTreeAndBinarySearchTree/IsBinarySearchTreeOrNot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#517#518#0" expanded="true" />
+            <element signature="e#545#546#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mycodepractice/Class04/BinaryTreeAndBinarySearchTree/PostorderTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="34" column="15" selection-start-line="34" selection-start-column="15" selection-end-line="34" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mycodepractice/Class04/BinaryTreeAndBinarySearchTree/PreorderTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="920">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mycodepractice/Class04/BinaryTreeAndBinarySearchTree/TweakedIdenticalBinaryTrees.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="22" column="18" lean-forward="true" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+          <folding>
+            <element signature="e#924#925#0" expanded="true" />
+            <element signature="e#952#953#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/mycodepractice/Class04/BinaryTreeAndBinarySearchTree/CheckIfBinaryTreeIsBalanced.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1196">
@@ -357,66 +610,96 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mycodepractice/Class04/BinaryTreeAndBinarySearchTree/TreeNode.java">
+    <entry file="file://$PROJECT_DIR$/src/com/mycodepractice/Class04/BinaryTreeAndBinarySearchTree/IsBinarySearchTreeOrNot.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="299">
+          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+          <folding>
+            <element signature="e#517#518#0" expanded="true" />
+            <element signature="e#545#546#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mycodepractice/Class04/BinaryTreeAndBinarySearchTree/InorderTraversal.java">
+    <entry file="file://$PROJECT_DIR$/src/com/mycodepractice/Class04/BinaryTreeAndBinarySearchTree/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="713">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        <state relative-caret-position="138">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BinaryTreeAndBinarySearchTree.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mycodepractice/Class04/BinaryTreeAndBinarySearchTree/TweakedIdenticalBinaryTrees.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="49" column="21" selection-start-line="49" selection-start-column="21" selection-end-line="49" selection-end-column="21" />
+          <folding>
+            <element signature="e#924#925#0" expanded="true" />
+            <element signature="e#952#953#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/mycodepractice/Class04/BinaryTreeAndBinarySearchTree/CheckIfBinaryTreeIsBalanced.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1196">
-          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        <state relative-caret-position="343">
+          <caret line="98" column="45" selection-start-line="98" selection-start-column="45" selection-end-line="98" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/mycodepractice/Class04/BinaryTreeAndBinarySearchTree/CheckIfBinaryTreeIsSymmetric.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1196">
-          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        <state relative-caret-position="312">
+          <caret line="82" column="45" lean-forward="true" selection-start-line="82" selection-start-column="45" selection-end-line="82" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/mycodepractice/Class04/BinaryTreeAndBinarySearchTree/GetKeysInBinarySearchTreeInGivenRange.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="920">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        <state relative-caret-position="294">
+          <caret line="42" column="66" lean-forward="true" selection-start-line="42" selection-start-column="66" selection-end-line="42" selection-end-column="66" />
+          <folding>
+            <element signature="e#863#864#0" expanded="true" />
+            <element signature="e#890#891#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mycodepractice/Class04/BinaryTreeAndBinarySearchTree/IsBinarySearchTreeOrNot.java">
+    <entry file="file://$PROJECT_DIR$/src/com/mycodepractice/Class04/BinaryTreeAndBinarySearchTree/InorderTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mycodepractice/Class04/BinaryTreeAndBinarySearchTree/PostorderTraversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="34" column="15" selection-start-line="34" selection-start-column="15" selection-end-line="34" selection-end-column="15" />
+        <state relative-caret-position="461">
+          <caret line="88" column="36" lean-forward="true" selection-start-line="88" selection-start-column="36" selection-end-line="88" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/mycodepractice/Class04/BinaryTreeAndBinarySearchTree/PreorderTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="920">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        <state relative-caret-position="261">
+          <caret line="59" column="29" lean-forward="true" selection-start-line="59" selection-start-column="29" selection-end-line="59" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mycodepractice/Class04/BinaryTreeAndBinarySearchTree/TweakedIdenticalBinaryTrees.java">
+    <entry file="file://$PROJECT_DIR$/src/com/mycodepractice/Class04/BinaryTreeAndBinarySearchTree/PostorderTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="22" column="18" lean-forward="true" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+        <state relative-caret-position="292">
+          <caret line="93" column="37" lean-forward="true" selection-start-line="93" selection-start-column="37" selection-end-line="93" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

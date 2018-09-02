@@ -11,6 +11,6 @@ package com.mycodepractice.Class04.BinaryTreeAndBinarySearchTree;
         What if the binary tree is null? Return true in this case.*/
 public class IsBinarySearchTreeOrNot {
     public boolean isBST(TreeNode root) {
-
+        return false;
     }
 }
