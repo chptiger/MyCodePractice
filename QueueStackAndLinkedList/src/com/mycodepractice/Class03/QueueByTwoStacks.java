@@ -1,5 +1,8 @@
 package com.mycodepractice.Class03;
 
+import org.junit.Assert;
+import org.junit.Test;
+
 import java.util.LinkedList;
 
 /*Description
@@ -54,5 +57,16 @@ public class QueueByTwoStacks {
 
     public boolean isEmpty() {
         return in.size() == 0 && out.size() == 0;
+    }
+
+    @Test
+    public void test_queueBy2Stacks() {
+        QueueByTwoStacks queue = new QueueByTwoStacks();
+        queue.offer(1);
+        queue.offer(2);
+        Assert.assertEquals(2, queue.size());
+        Assert.assertEquals((Integer) 1, queue.peek());
+        Assert.assertEquals((Integer) 1, queue.poll());
+        Assert.assertEquals(new Integer(2), queue.poll());
     }
 }

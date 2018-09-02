@@ -1,10 +1,14 @@
 package com.mycodepractice.Class03;
 
+import org.junit.Assert;
+import org.junit.Test;
+
 import java.util.Deque;
 import java.util.LinkedList;
 
 /*Description
-        Enhance the stack implementation to support min() operation. min() should return the current minimum value in the stack. If the stack is empty, min() should return -1.
+        Enhance the stack implementation to support min() operation. min() should return the current minimum value in the stack.
+        If the stack is empty, min() should return -1.
 
         pop() - remove and return the top element, if the stack is empty, return -1
 
@@ -54,5 +58,17 @@ public class StackWithMin {
             return -1;
         }
         return minStack.peekFirst();
+    }
+
+    @Test
+    public void test_minStack(){
+        StackWithMin stack = new StackWithMin();
+        Assert.assertEquals((Integer)(-1),stack.min());
+        stack.push(2);
+        Assert.assertEquals((Integer)(2),stack.min());
+        stack.push(3);
+        Assert.assertEquals((Integer)(2),stack.min());
+        stack.push(1);
+        Assert.assertEquals((Integer)(1),stack.min());
     }
 }
